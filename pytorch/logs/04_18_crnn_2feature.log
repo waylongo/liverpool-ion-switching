@@ -1,0 +1,14 @@
+[2020-04-18 16:04:28,246][cnn_rnn_main.py][line:119][INFO] Start training!
+[2020-04-18 16:04:28,249][cnn_rnn_main.py][line:126][INFO] ========== Fold 0, TRAIN: (1440,), TEST: (360,)
+[2020-04-18 16:04:30,529][cnn_rnn_main.py][line:155][INFO] Epoch : 0
+[2020-04-18 16:04:30,529][cnn_rnn_main.py][line:156][INFO] learning_rate: 0.000010000
+[2020-04-18 16:04:57,829][cnn_rnn_main.py][line:210][INFO] train_loss: 1.914406, valid_loss: 1.749278
+[2020-04-18 16:04:59,119][cnn_rnn_main.py][line:214][INFO] train_f1: 0.057825, valid_f1: 0.009523
+[2020-04-18 16:04:59,123][cnn_rnn_main.py][line:222][INFO] --- 28.593716382980347 seconds ---
+[2020-04-18 16:04:59,123][cnn_rnn_main.py][line:155][INFO] Epoch : 1
+[2020-04-18 16:04:59,123][cnn_rnn_main.py][line:156][INFO] learning_rate: 0.000016101
+[2020-04-18 16:05:27,245][cnn_rnn_main.py][line:210][INFO] train_loss: 1.762907, valid_loss: 1.510649
+[2020-04-18 16:05:28,542][cnn_rnn_main.py][line:214][INFO] train_f1: 0.069007, valid_f1: 0.085712
+[2020-04-18 16:05:28,545][cnn_rnn_main.py][line:222][INFO] --- 29.422247409820557 seconds ---
+[2020-04-18 16:05:28,545][cnn_rnn_main.py][line:155][INFO] Epoch : 2
+[2020-04-18 16:05:28,545][cnn_rnn_main.py][line:156][INFO] learning_rate: 0.000034254

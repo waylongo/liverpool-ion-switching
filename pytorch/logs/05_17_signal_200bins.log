@@ -1,0 +1,1210 @@
+[2020-05-17 20:25:11,459][cnn_rnn_main.py][line:151][INFO] Start training!
+[2020-05-17 20:25:11,463][cnn_rnn_main.py][line:158][INFO] ========== Fold 0, TRAIN: (1800,), TEST: (450,) ==========
+[2020-05-17 20:25:12,878][cnn_rnn_main.py][line:195][INFO] Epoch : 0
+[2020-05-17 20:25:12,878][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:26:16,668][cnn_rnn_main.py][line:255][INFO] train_loss: 1.947147, valid_loss: 1.135567
+[2020-05-17 20:26:17,702][cnn_rnn_main.py][line:262][INFO] train_f1: 0.130943, valid_f1: 0.332153
+[2020-05-17 20:26:17,710][cnn_rnn_main.py][line:273][INFO] --- 64.83244466781616 seconds ---
+[2020-05-17 20:26:17,711][cnn_rnn_main.py][line:195][INFO] Epoch : 1
+[2020-05-17 20:26:17,711][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:27:21,604][cnn_rnn_main.py][line:255][INFO] train_loss: 0.599309, valid_loss: 0.283109
+[2020-05-17 20:27:22,681][cnn_rnn_main.py][line:262][INFO] train_f1: 0.582949, valid_f1: 0.753947
+[2020-05-17 20:27:22,689][cnn_rnn_main.py][line:273][INFO] --- 64.97829461097717 seconds ---
+[2020-05-17 20:27:22,689][cnn_rnn_main.py][line:195][INFO] Epoch : 2
+[2020-05-17 20:27:22,689][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:28:26,393][cnn_rnn_main.py][line:255][INFO] train_loss: 0.195422, valid_loss: 0.125215
+[2020-05-17 20:28:27,488][cnn_rnn_main.py][line:262][INFO] train_f1: 0.858855, valid_f1: 0.926355
+[2020-05-17 20:28:27,496][cnn_rnn_main.py][line:273][INFO] --- 64.80747413635254 seconds ---
+[2020-05-17 20:28:27,497][cnn_rnn_main.py][line:195][INFO] Epoch : 3
+[2020-05-17 20:28:27,497][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:29:30,903][cnn_rnn_main.py][line:255][INFO] train_loss: 0.107046, valid_loss: 0.093348
+[2020-05-17 20:29:32,000][cnn_rnn_main.py][line:262][INFO] train_f1: 0.930380, valid_f1: 0.939930
+[2020-05-17 20:29:32,007][cnn_rnn_main.py][line:273][INFO] --- 64.5108470916748 seconds ---
+[2020-05-17 20:29:32,007][cnn_rnn_main.py][line:195][INFO] Epoch : 4
+[2020-05-17 20:29:32,008][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:30:35,841][cnn_rnn_main.py][line:255][INFO] train_loss: 0.093038, valid_loss: 0.089745
+[2020-05-17 20:30:36,947][cnn_rnn_main.py][line:262][INFO] train_f1: 0.935604, valid_f1: 0.940646
+[2020-05-17 20:30:36,955][cnn_rnn_main.py][line:273][INFO] --- 64.9477264881134 seconds ---
+[2020-05-17 20:30:36,955][cnn_rnn_main.py][line:195][INFO] Epoch : 5
+[2020-05-17 20:30:36,955][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:31:40,473][cnn_rnn_main.py][line:255][INFO] train_loss: 0.093584, valid_loss: 0.088841
+[2020-05-17 20:31:41,582][cnn_rnn_main.py][line:262][INFO] train_f1: 0.933946, valid_f1: 0.941052
+[2020-05-17 20:31:41,590][cnn_rnn_main.py][line:273][INFO] --- 64.63460612297058 seconds ---
+[2020-05-17 20:31:41,590][cnn_rnn_main.py][line:195][INFO] Epoch : 6
+[2020-05-17 20:31:41,590][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:32:45,389][cnn_rnn_main.py][line:255][INFO] train_loss: 0.087740, valid_loss: 0.087095
+[2020-05-17 20:32:46,505][cnn_rnn_main.py][line:262][INFO] train_f1: 0.937762, valid_f1: 0.941226
+[2020-05-17 20:32:46,514][cnn_rnn_main.py][line:273][INFO] --- 64.9236798286438 seconds ---
+[2020-05-17 20:32:46,514][cnn_rnn_main.py][line:195][INFO] Epoch : 7
+[2020-05-17 20:32:46,514][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:33:50,916][cnn_rnn_main.py][line:255][INFO] train_loss: 0.086858, valid_loss: 0.087058
+[2020-05-17 20:33:52,041][cnn_rnn_main.py][line:262][INFO] train_f1: 0.937900, valid_f1: 0.941566
+[2020-05-17 20:33:52,047][cnn_rnn_main.py][line:273][INFO] --- 65.5335795879364 seconds ---
+[2020-05-17 20:33:52,047][cnn_rnn_main.py][line:195][INFO] Epoch : 8
+[2020-05-17 20:33:52,047][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:34:56,198][cnn_rnn_main.py][line:255][INFO] train_loss: 0.085401, valid_loss: 0.086936
+[2020-05-17 20:34:57,315][cnn_rnn_main.py][line:262][INFO] train_f1: 0.938311, valid_f1: 0.941326
+[2020-05-17 20:34:57,315][cnn_rnn_main.py][line:273][INFO] --- 65.26807904243469 seconds ---
+[2020-05-17 20:34:57,316][cnn_rnn_main.py][line:195][INFO] Epoch : 9
+[2020-05-17 20:34:57,316][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:36:01,072][cnn_rnn_main.py][line:255][INFO] train_loss: 0.085751, valid_loss: 0.087952
+[2020-05-17 20:36:02,186][cnn_rnn_main.py][line:262][INFO] train_f1: 0.938373, valid_f1: 0.940102
+[2020-05-17 20:36:02,186][cnn_rnn_main.py][line:273][INFO] --- 64.87029457092285 seconds ---
+[2020-05-17 20:36:02,186][cnn_rnn_main.py][line:195][INFO] Epoch : 10
+[2020-05-17 20:36:02,186][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:37:05,867][cnn_rnn_main.py][line:255][INFO] train_loss: 0.084420, valid_loss: 0.085215
+[2020-05-17 20:37:06,979][cnn_rnn_main.py][line:262][INFO] train_f1: 0.938967, valid_f1: 0.941887
+[2020-05-17 20:37:06,986][cnn_rnn_main.py][line:273][INFO] --- 64.7997317314148 seconds ---
+[2020-05-17 20:37:06,986][cnn_rnn_main.py][line:195][INFO] Epoch : 11
+[2020-05-17 20:37:06,986][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:38:11,188][cnn_rnn_main.py][line:255][INFO] train_loss: 0.084171, valid_loss: 0.086731
+[2020-05-17 20:38:12,315][cnn_rnn_main.py][line:262][INFO] train_f1: 0.938864, valid_f1: 0.940578
+[2020-05-17 20:38:12,315][cnn_rnn_main.py][line:273][INFO] --- 65.32902693748474 seconds ---
+[2020-05-17 20:38:12,315][cnn_rnn_main.py][line:195][INFO] Epoch : 12
+[2020-05-17 20:38:12,315][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:39:16,649][cnn_rnn_main.py][line:255][INFO] train_loss: 0.083811, valid_loss: 0.085841
+[2020-05-17 20:39:17,785][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939217, valid_f1: 0.941326
+[2020-05-17 20:39:17,785][cnn_rnn_main.py][line:273][INFO] --- 65.47002601623535 seconds ---
+[2020-05-17 20:39:17,785][cnn_rnn_main.py][line:195][INFO] Epoch : 13
+[2020-05-17 20:39:17,785][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:40:21,506][cnn_rnn_main.py][line:255][INFO] train_loss: 0.082989, valid_loss: 0.084867
+[2020-05-17 20:40:22,621][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939561, valid_f1: 0.942248
+[2020-05-17 20:40:22,628][cnn_rnn_main.py][line:273][INFO] --- 64.8429639339447 seconds ---
+[2020-05-17 20:40:22,628][cnn_rnn_main.py][line:195][INFO] Epoch : 14
+[2020-05-17 20:40:22,628][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:41:26,147][cnn_rnn_main.py][line:255][INFO] train_loss: 0.083236, valid_loss: 0.085057
+[2020-05-17 20:41:27,280][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939281, valid_f1: 0.941603
+[2020-05-17 20:41:27,280][cnn_rnn_main.py][line:273][INFO] --- 64.65233850479126 seconds ---
+[2020-05-17 20:41:27,280][cnn_rnn_main.py][line:195][INFO] Epoch : 15
+[2020-05-17 20:41:27,280][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:42:31,361][cnn_rnn_main.py][line:255][INFO] train_loss: 0.083036, valid_loss: 0.084953
+[2020-05-17 20:42:32,466][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939288, valid_f1: 0.941858
+[2020-05-17 20:42:32,466][cnn_rnn_main.py][line:273][INFO] --- 65.1856062412262 seconds ---
+[2020-05-17 20:42:32,466][cnn_rnn_main.py][line:195][INFO] Epoch : 16
+[2020-05-17 20:42:32,466][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:43:36,200][cnn_rnn_main.py][line:255][INFO] train_loss: 0.082266, valid_loss: 0.085495
+[2020-05-17 20:43:37,306][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939863, valid_f1: 0.941620
+[2020-05-17 20:43:37,306][cnn_rnn_main.py][line:273][INFO] --- 64.84028244018555 seconds ---
+[2020-05-17 20:43:37,306][cnn_rnn_main.py][line:195][INFO] Epoch : 17
+[2020-05-17 20:43:37,306][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 20:44:41,350][cnn_rnn_main.py][line:255][INFO] train_loss: 0.081362, valid_loss: 0.084466
+[2020-05-17 20:44:42,463][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940325, valid_f1: 0.941467
+[2020-05-17 20:44:42,463][cnn_rnn_main.py][line:273][INFO] --- 65.15681409835815 seconds ---
+[2020-05-17 20:44:42,463][cnn_rnn_main.py][line:195][INFO] Epoch : 18
+[2020-05-17 20:44:42,463][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 20:45:46,477][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080536, valid_loss: 0.083632
+[2020-05-17 20:45:47,592][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940776, valid_f1: 0.942581
+[2020-05-17 20:45:47,599][cnn_rnn_main.py][line:273][INFO] --- 65.13584589958191 seconds ---
+[2020-05-17 20:45:47,599][cnn_rnn_main.py][line:195][INFO] Epoch : 19
+[2020-05-17 20:45:47,599][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 20:46:51,478][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080482, valid_loss: 0.083579
+[2020-05-17 20:46:52,597][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940840, valid_f1: 0.942617
+[2020-05-17 20:46:52,603][cnn_rnn_main.py][line:273][INFO] --- 65.00442290306091 seconds ---
+[2020-05-17 20:46:52,604][cnn_rnn_main.py][line:195][INFO] Epoch : 20
+[2020-05-17 20:46:52,604][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 20:47:56,149][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080314, valid_loss: 0.083606
+[2020-05-17 20:47:57,274][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940955, valid_f1: 0.942394
+[2020-05-17 20:47:57,274][cnn_rnn_main.py][line:273][INFO] --- 64.67072892189026 seconds ---
+[2020-05-17 20:47:57,274][cnn_rnn_main.py][line:195][INFO] Epoch : 21
+[2020-05-17 20:47:57,274][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 20:49:01,237][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080464, valid_loss: 0.084073
+[2020-05-17 20:49:02,343][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941069, valid_f1: 0.942617
+[2020-05-17 20:49:02,343][cnn_rnn_main.py][line:273][INFO] --- 65.06853985786438 seconds ---
+[2020-05-17 20:49:02,343][cnn_rnn_main.py][line:195][INFO] Epoch : 22
+[2020-05-17 20:49:02,343][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 20:50:06,208][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080251, valid_loss: 0.083487
+[2020-05-17 20:50:07,363][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940770, valid_f1: 0.942472
+[2020-05-17 20:50:07,363][cnn_rnn_main.py][line:273][INFO] --- 65.02021408081055 seconds ---
+[2020-05-17 20:50:07,363][cnn_rnn_main.py][line:195][INFO] Epoch : 23
+[2020-05-17 20:50:07,363][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-17 20:51:10,970][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079908, valid_loss: 0.083347
+[2020-05-17 20:51:12,100][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941033, valid_f1: 0.942595
+[2020-05-17 20:51:12,100][cnn_rnn_main.py][line:273][INFO] --- 64.73656702041626 seconds ---
+[2020-05-17 20:51:12,100][cnn_rnn_main.py][line:195][INFO] Epoch : 24
+[2020-05-17 20:51:12,100][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-17 20:52:15,888][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079654, valid_loss: 0.083349
+[2020-05-17 20:52:17,010][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941278, valid_f1: 0.942546
+[2020-05-17 20:52:17,010][cnn_rnn_main.py][line:273][INFO] --- 64.91027545928955 seconds ---
+[2020-05-17 20:52:17,010][cnn_rnn_main.py][line:195][INFO] Epoch : 25
+[2020-05-17 20:52:17,010][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-17 20:53:21,938][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079860, valid_loss: 0.083314
+[2020-05-17 20:53:23,067][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941155, valid_f1: 0.942638
+[2020-05-17 20:53:23,073][cnn_rnn_main.py][line:273][INFO] --- 66.06331968307495 seconds ---
+[2020-05-17 20:53:23,074][cnn_rnn_main.py][line:195][INFO] Epoch : 26
+[2020-05-17 20:53:23,074][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-17 20:54:27,296][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079759, valid_loss: 0.083280
+[2020-05-17 20:54:28,411][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941152, valid_f1: 0.942658
+[2020-05-17 20:54:28,418][cnn_rnn_main.py][line:273][INFO] --- 65.34400916099548 seconds ---
+[2020-05-17 20:54:28,418][cnn_rnn_main.py][line:195][INFO] Epoch : 27
+[2020-05-17 20:54:28,418][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 20:55:32,544][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079658, valid_loss: 0.083231
+[2020-05-17 20:55:33,664][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941363, valid_f1: 0.942799
+[2020-05-17 20:55:33,671][cnn_rnn_main.py][line:273][INFO] --- 65.25309801101685 seconds ---
+[2020-05-17 20:55:33,671][cnn_rnn_main.py][line:195][INFO] Epoch : 28
+[2020-05-17 20:55:33,671][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 20:56:37,372][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079899, valid_loss: 0.083230
+[2020-05-17 20:56:38,485][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941192, valid_f1: 0.942688
+[2020-05-17 20:56:38,485][cnn_rnn_main.py][line:273][INFO] --- 64.8145043849945 seconds ---
+[2020-05-17 20:56:38,485][cnn_rnn_main.py][line:195][INFO] Epoch : 29
+[2020-05-17 20:56:38,485][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 20:57:42,228][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079964, valid_loss: 0.083249
+[2020-05-17 20:57:43,353][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941353, valid_f1: 0.942687
+[2020-05-17 20:57:43,353][cnn_rnn_main.py][line:273][INFO] --- 64.86766815185547 seconds ---
+[2020-05-17 20:57:43,353][cnn_rnn_main.py][line:195][INFO] Epoch : 30
+[2020-05-17 20:57:43,353][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 20:58:47,613][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079820, valid_loss: 0.083239
+[2020-05-17 20:58:48,707][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941306, valid_f1: 0.942602
+[2020-05-17 20:58:48,707][cnn_rnn_main.py][line:273][INFO] --- 65.35381984710693 seconds ---
+[2020-05-17 20:58:48,707][cnn_rnn_main.py][line:195][INFO] Epoch : 31
+[2020-05-17 20:58:48,707][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 20:59:52,736][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079733, valid_loss: 0.083216
+[2020-05-17 20:59:53,846][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941350, valid_f1: 0.942714
+[2020-05-17 20:59:53,846][cnn_rnn_main.py][line:273][INFO] --- 65.13929009437561 seconds ---
+[2020-05-17 20:59:53,846][cnn_rnn_main.py][line:195][INFO] Epoch : 32
+[2020-05-17 20:59:53,846][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:00:57,631][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079859, valid_loss: 0.083215
+[2020-05-17 21:00:58,726][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941224, valid_f1: 0.942674
+[2020-05-17 21:00:58,726][cnn_rnn_main.py][line:273][INFO] --- 64.87976026535034 seconds ---
+[2020-05-17 21:00:58,726][cnn_rnn_main.py][line:195][INFO] Epoch : 33
+[2020-05-17 21:00:58,726][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:02:02,471][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079947, valid_loss: 0.083209
+[2020-05-17 21:02:03,586][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941316, valid_f1: 0.942702
+[2020-05-17 21:02:03,586][cnn_rnn_main.py][line:273][INFO] --- 64.86024641990662 seconds ---
+[2020-05-17 21:02:03,586][cnn_rnn_main.py][line:195][INFO] Epoch : 34
+[2020-05-17 21:02:03,586][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:03:07,725][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079759, valid_loss: 0.083201
+[2020-05-17 21:03:08,847][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941306, valid_f1: 0.942733
+[2020-05-17 21:03:08,848][cnn_rnn_main.py][line:273][INFO] --- 65.26119828224182 seconds ---
+[2020-05-17 21:03:08,848][cnn_rnn_main.py][line:195][INFO] Epoch : 35
+[2020-05-17 21:03:08,848][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:04:12,668][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079576, valid_loss: 0.083205
+[2020-05-17 21:04:13,787][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941314, valid_f1: 0.942660
+[2020-05-17 21:04:13,787][cnn_rnn_main.py][line:273][INFO] --- 64.9392774105072 seconds ---
+[2020-05-17 21:04:13,787][cnn_rnn_main.py][line:195][INFO] Epoch : 36
+[2020-05-17 21:04:13,787][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:05:17,361][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079808, valid_loss: 0.083198
+[2020-05-17 21:05:18,485][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941207, valid_f1: 0.942764
+[2020-05-17 21:05:18,485][cnn_rnn_main.py][line:273][INFO] --- 64.69806218147278 seconds ---
+[2020-05-17 21:05:18,485][cnn_rnn_main.py][line:195][INFO] Epoch : 37
+[2020-05-17 21:05:18,485][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:06:22,250][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079601, valid_loss: 0.083197
+[2020-05-17 21:06:23,379][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941260, valid_f1: 0.942737
+[2020-05-17 21:06:23,379][cnn_rnn_main.py][line:273][INFO] --- 64.89391756057739 seconds ---
+[2020-05-17 21:06:23,379][cnn_rnn_main.py][line:195][INFO] Epoch : 38
+[2020-05-17 21:06:23,379][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:07:27,067][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079793, valid_loss: 0.083212
+[2020-05-17 21:07:28,196][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941165, valid_f1: 0.942735
+[2020-05-17 21:07:28,196][cnn_rnn_main.py][line:273][INFO] --- 64.81679129600525 seconds ---
+[2020-05-17 21:07:28,196][cnn_rnn_main.py][line:195][INFO] Epoch : 39
+[2020-05-17 21:07:28,196][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:08:32,202][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079441, valid_loss: 0.083185
+[2020-05-17 21:08:33,316][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941272, valid_f1: 0.942778
+[2020-05-17 21:08:33,317][cnn_rnn_main.py][line:273][INFO] --- 65.12065267562866 seconds ---
+[2020-05-17 21:08:33,317][cnn_rnn_main.py][line:195][INFO] Epoch : 40
+[2020-05-17 21:08:33,317][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:09:48,282][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079555, valid_loss: 0.083201
+[2020-05-17 21:09:49,409][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941239, valid_f1: 0.942667
+[2020-05-17 21:09:49,409][cnn_rnn_main.py][line:273][INFO] --- 76.09246563911438 seconds ---
+[2020-05-17 21:09:49,409][cnn_rnn_main.py][line:195][INFO] Epoch : 41
+[2020-05-17 21:09:49,409][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:11:04,110][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079758, valid_loss: 0.083183
+[2020-05-17 21:11:05,236][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941172, valid_f1: 0.942709
+[2020-05-17 21:11:05,236][cnn_rnn_main.py][line:273][INFO] --- 75.8269612789154 seconds ---
+[2020-05-17 21:11:05,236][cnn_rnn_main.py][line:195][INFO] Epoch : 42
+[2020-05-17 21:11:05,236][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:12:13,535][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079564, valid_loss: 0.083196
+[2020-05-17 21:12:14,680][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941209, valid_f1: 0.942666
+[2020-05-17 21:12:14,680][cnn_rnn_main.py][line:273][INFO] --- 69.44372272491455 seconds ---
+[2020-05-17 21:12:14,680][cnn_rnn_main.py][line:195][INFO] Epoch : 43
+[2020-05-17 21:12:14,680][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:13:38,678][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079521, valid_loss: 0.083186
+[2020-05-17 21:13:39,810][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941243, valid_f1: 0.942630
+[2020-05-17 21:13:39,810][cnn_rnn_main.py][line:273][INFO] --- 85.1302695274353 seconds ---
+[2020-05-17 21:13:39,810][cnn_rnn_main.py][line:195][INFO] Epoch : 44
+[2020-05-17 21:13:39,810][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:15:02,315][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079903, valid_loss: 0.083177
+[2020-05-17 21:15:03,434][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941307, valid_f1: 0.942730
+[2020-05-17 21:15:03,434][cnn_rnn_main.py][line:273][INFO] --- 83.62368392944336 seconds ---
+[2020-05-17 21:15:03,434][cnn_rnn_main.py][line:195][INFO] Epoch : 45
+[2020-05-17 21:15:03,434][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:16:31,695][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079852, valid_loss: 0.083176
+[2020-05-17 21:16:32,827][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941472, valid_f1: 0.942724
+[2020-05-17 21:16:32,827][cnn_rnn_main.py][line:273][INFO] --- 89.39302778244019 seconds ---
+[2020-05-17 21:16:32,827][cnn_rnn_main.py][line:195][INFO] Epoch : 46
+[2020-05-17 21:16:32,827][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:17:50,893][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079880, valid_loss: 0.083178
+[2020-05-17 21:17:52,024][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941097, valid_f1: 0.942720
+[2020-05-17 21:17:52,024][cnn_rnn_main.py][line:273][INFO] --- 79.19678211212158 seconds ---
+[2020-05-17 21:17:52,024][cnn_rnn_main.py][line:195][INFO] Epoch : 47
+[2020-05-17 21:17:52,024][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:19:14,660][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079550, valid_loss: 0.083179
+[2020-05-17 21:19:15,779][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941403, valid_f1: 0.942727
+[2020-05-17 21:19:15,779][cnn_rnn_main.py][line:267][INFO] Early Stopping...
+[2020-05-17 21:19:15,779][cnn_rnn_main.py][line:269][INFO] Best Val Score: 0.942799
+[2020-05-17 21:19:42,218][cnn_rnn_main.py][line:158][INFO] ========== Fold 1, TRAIN: (1800,), TEST: (450,) ==========
+[2020-05-17 21:19:42,575][cnn_rnn_main.py][line:195][INFO] Epoch : 0
+[2020-05-17 21:19:42,575][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 21:20:51,944][cnn_rnn_main.py][line:255][INFO] train_loss: 1.015921, valid_loss: 0.207088
+[2020-05-17 21:20:53,087][cnn_rnn_main.py][line:262][INFO] train_f1: 0.531135, valid_f1: 0.856425
+[2020-05-17 21:20:53,092][cnn_rnn_main.py][line:273][INFO] --- 70.51749730110168 seconds ---
+[2020-05-17 21:20:53,092][cnn_rnn_main.py][line:195][INFO] Epoch : 1
+[2020-05-17 21:20:53,092][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 21:22:06,276][cnn_rnn_main.py][line:255][INFO] train_loss: 0.122806, valid_loss: 0.091636
+[2020-05-17 21:22:07,433][cnn_rnn_main.py][line:262][INFO] train_f1: 0.918574, valid_f1: 0.938698
+[2020-05-17 21:22:07,440][cnn_rnn_main.py][line:273][INFO] --- 74.34722471237183 seconds ---
+[2020-05-17 21:22:07,440][cnn_rnn_main.py][line:195][INFO] Epoch : 2
+[2020-05-17 21:22:07,440][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 21:23:28,670][cnn_rnn_main.py][line:255][INFO] train_loss: 0.089595, valid_loss: 0.088204
+[2020-05-17 21:23:29,798][cnn_rnn_main.py][line:262][INFO] train_f1: 0.937362, valid_f1: 0.939828
+[2020-05-17 21:23:29,805][cnn_rnn_main.py][line:273][INFO] --- 82.36498761177063 seconds ---
+[2020-05-17 21:23:29,805][cnn_rnn_main.py][line:195][INFO] Epoch : 3
+[2020-05-17 21:23:29,805][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 21:24:34,472][cnn_rnn_main.py][line:255][INFO] train_loss: 0.086033, valid_loss: 0.086487
+[2020-05-17 21:24:35,614][cnn_rnn_main.py][line:262][INFO] train_f1: 0.938641, valid_f1: 0.940480
+[2020-05-17 21:24:35,620][cnn_rnn_main.py][line:273][INFO] --- 65.81575417518616 seconds ---
+[2020-05-17 21:24:35,621][cnn_rnn_main.py][line:195][INFO] Epoch : 4
+[2020-05-17 21:24:35,621][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 21:25:39,680][cnn_rnn_main.py][line:255][INFO] train_loss: 0.085786, valid_loss: 0.087932
+[2020-05-17 21:25:40,810][cnn_rnn_main.py][line:262][INFO] train_f1: 0.938080, valid_f1: 0.937937
+[2020-05-17 21:25:40,810][cnn_rnn_main.py][line:273][INFO] --- 65.18959498405457 seconds ---
+[2020-05-17 21:25:40,810][cnn_rnn_main.py][line:195][INFO] Epoch : 5
+[2020-05-17 21:25:40,810][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 21:26:44,708][cnn_rnn_main.py][line:255][INFO] train_loss: 0.083562, valid_loss: 0.085235
+[2020-05-17 21:26:45,841][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939532, valid_f1: 0.940799
+[2020-05-17 21:26:45,848][cnn_rnn_main.py][line:273][INFO] --- 65.03760242462158 seconds ---
+[2020-05-17 21:26:45,848][cnn_rnn_main.py][line:195][INFO] Epoch : 6
+[2020-05-17 21:26:45,848][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 21:27:50,184][cnn_rnn_main.py][line:255][INFO] train_loss: 0.083551, valid_loss: 0.085380
+[2020-05-17 21:27:51,317][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939470, valid_f1: 0.940936
+[2020-05-17 21:27:51,323][cnn_rnn_main.py][line:273][INFO] --- 65.47524237632751 seconds ---
+[2020-05-17 21:27:51,323][cnn_rnn_main.py][line:195][INFO] Epoch : 7
+[2020-05-17 21:27:51,323][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 21:28:55,463][cnn_rnn_main.py][line:255][INFO] train_loss: 0.082068, valid_loss: 0.085000
+[2020-05-17 21:28:56,605][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940325, valid_f1: 0.941267
+[2020-05-17 21:28:56,611][cnn_rnn_main.py][line:273][INFO] --- 65.28765368461609 seconds ---
+[2020-05-17 21:28:56,611][cnn_rnn_main.py][line:195][INFO] Epoch : 8
+[2020-05-17 21:28:56,611][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 21:30:00,646][cnn_rnn_main.py][line:255][INFO] train_loss: 0.081536, valid_loss: 0.084257
+[2020-05-17 21:30:01,768][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940641, valid_f1: 0.941267
+[2020-05-17 21:30:01,768][cnn_rnn_main.py][line:273][INFO] --- 65.15673851966858 seconds ---
+[2020-05-17 21:30:01,768][cnn_rnn_main.py][line:195][INFO] Epoch : 9
+[2020-05-17 21:30:01,768][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 21:31:05,677][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080991, valid_loss: 0.084582
+[2020-05-17 21:31:06,797][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940779, valid_f1: 0.941169
+[2020-05-17 21:31:06,797][cnn_rnn_main.py][line:273][INFO] --- 65.02893209457397 seconds ---
+[2020-05-17 21:31:06,797][cnn_rnn_main.py][line:195][INFO] Epoch : 10
+[2020-05-17 21:31:06,797][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 21:32:11,348][cnn_rnn_main.py][line:255][INFO] train_loss: 0.081188, valid_loss: 0.084050
+[2020-05-17 21:32:12,509][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940706, valid_f1: 0.941398
+[2020-05-17 21:32:12,515][cnn_rnn_main.py][line:273][INFO] --- 65.71841263771057 seconds ---
+[2020-05-17 21:32:12,515][cnn_rnn_main.py][line:195][INFO] Epoch : 11
+[2020-05-17 21:32:12,515][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 21:33:16,867][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080511, valid_loss: 0.085488
+[2020-05-17 21:33:18,005][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940969, valid_f1: 0.940332
+[2020-05-17 21:33:18,005][cnn_rnn_main.py][line:273][INFO] --- 65.48953342437744 seconds ---
+[2020-05-17 21:33:18,005][cnn_rnn_main.py][line:195][INFO] Epoch : 12
+[2020-05-17 21:33:18,005][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 21:34:22,182][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080358, valid_loss: 0.084297
+[2020-05-17 21:34:23,307][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940955, valid_f1: 0.941189
+[2020-05-17 21:34:23,307][cnn_rnn_main.py][line:273][INFO] --- 65.3024754524231 seconds ---
+[2020-05-17 21:34:23,307][cnn_rnn_main.py][line:195][INFO] Epoch : 13
+[2020-05-17 21:34:23,307][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 21:35:27,277][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079973, valid_loss: 0.084837
+[2020-05-17 21:35:28,421][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941460, valid_f1: 0.940750
+[2020-05-17 21:35:28,421][cnn_rnn_main.py][line:273][INFO] --- 65.11386609077454 seconds ---
+[2020-05-17 21:35:28,421][cnn_rnn_main.py][line:195][INFO] Epoch : 14
+[2020-05-17 21:35:28,421][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 21:36:35,010][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080074, valid_loss: 0.084875
+[2020-05-17 21:36:36,162][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940990, valid_f1: 0.941080
+[2020-05-17 21:36:36,163][cnn_rnn_main.py][line:273][INFO] --- 67.74141335487366 seconds ---
+[2020-05-17 21:36:36,163][cnn_rnn_main.py][line:195][INFO] Epoch : 15
+[2020-05-17 21:36:36,163][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 21:37:41,491][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079115, valid_loss: 0.083158
+[2020-05-17 21:37:42,633][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941865, valid_f1: 0.941610
+[2020-05-17 21:37:42,639][cnn_rnn_main.py][line:273][INFO] --- 66.4762716293335 seconds ---
+[2020-05-17 21:37:42,639][cnn_rnn_main.py][line:195][INFO] Epoch : 16
+[2020-05-17 21:37:42,639][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 21:38:53,287][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079147, valid_loss: 0.083150
+[2020-05-17 21:38:54,459][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941949, valid_f1: 0.941737
+[2020-05-17 21:38:54,465][cnn_rnn_main.py][line:273][INFO] --- 71.82639217376709 seconds ---
+[2020-05-17 21:38:54,466][cnn_rnn_main.py][line:195][INFO] Epoch : 17
+[2020-05-17 21:38:54,466][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 21:39:59,348][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078908, valid_loss: 0.083283
+[2020-05-17 21:40:00,484][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941875, valid_f1: 0.941734
+[2020-05-17 21:40:00,485][cnn_rnn_main.py][line:273][INFO] --- 66.01900911331177 seconds ---
+[2020-05-17 21:40:00,485][cnn_rnn_main.py][line:195][INFO] Epoch : 18
+[2020-05-17 21:40:00,485][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 21:41:05,267][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078674, valid_loss: 0.083080
+[2020-05-17 21:41:06,398][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941822, valid_f1: 0.941837
+[2020-05-17 21:41:06,405][cnn_rnn_main.py][line:273][INFO] --- 65.92045998573303 seconds ---
+[2020-05-17 21:41:06,405][cnn_rnn_main.py][line:195][INFO] Epoch : 19
+[2020-05-17 21:41:06,405][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 21:42:11,279][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078454, valid_loss: 0.083485
+[2020-05-17 21:42:12,424][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942016, valid_f1: 0.941544
+[2020-05-17 21:42:12,425][cnn_rnn_main.py][line:273][INFO] --- 66.01953029632568 seconds ---
+[2020-05-17 21:42:12,425][cnn_rnn_main.py][line:195][INFO] Epoch : 20
+[2020-05-17 21:42:12,425][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 21:43:16,577][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078723, valid_loss: 0.083464
+[2020-05-17 21:43:17,707][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941942, valid_f1: 0.941591
+[2020-05-17 21:43:17,707][cnn_rnn_main.py][line:273][INFO] --- 65.28274822235107 seconds ---
+[2020-05-17 21:43:17,708][cnn_rnn_main.py][line:195][INFO] Epoch : 21
+[2020-05-17 21:43:17,708][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 21:44:26,336][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078405, valid_loss: 0.083068
+[2020-05-17 21:44:27,464][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942065, valid_f1: 0.941867
+[2020-05-17 21:44:27,471][cnn_rnn_main.py][line:273][INFO] --- 69.7630352973938 seconds ---
+[2020-05-17 21:44:27,471][cnn_rnn_main.py][line:195][INFO] Epoch : 22
+[2020-05-17 21:44:27,471][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 21:45:32,360][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078713, valid_loss: 0.083221
+[2020-05-17 21:45:33,493][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942003, valid_f1: 0.941733
+[2020-05-17 21:45:33,493][cnn_rnn_main.py][line:273][INFO] --- 66.02245450019836 seconds ---
+[2020-05-17 21:45:33,493][cnn_rnn_main.py][line:195][INFO] Epoch : 23
+[2020-05-17 21:45:33,493][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-17 21:46:37,309][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078439, valid_loss: 0.082899
+[2020-05-17 21:46:38,433][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942231, valid_f1: 0.941862
+[2020-05-17 21:46:38,433][cnn_rnn_main.py][line:273][INFO] --- 64.93971276283264 seconds ---
+[2020-05-17 21:46:38,433][cnn_rnn_main.py][line:195][INFO] Epoch : 24
+[2020-05-17 21:46:38,433][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-17 21:47:42,327][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078050, valid_loss: 0.082851
+[2020-05-17 21:47:43,467][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942331, valid_f1: 0.941861
+[2020-05-17 21:47:43,467][cnn_rnn_main.py][line:273][INFO] --- 65.03439545631409 seconds ---
+[2020-05-17 21:47:43,467][cnn_rnn_main.py][line:195][INFO] Epoch : 25
+[2020-05-17 21:47:43,467][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-17 21:48:48,050][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078187, valid_loss: 0.082874
+[2020-05-17 21:48:49,189][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942313, valid_f1: 0.941790
+[2020-05-17 21:48:49,190][cnn_rnn_main.py][line:273][INFO] --- 65.72220063209534 seconds ---
+[2020-05-17 21:48:49,190][cnn_rnn_main.py][line:195][INFO] Epoch : 26
+[2020-05-17 21:48:49,190][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-17 21:49:58,211][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078145, valid_loss: 0.082920
+[2020-05-17 21:49:59,339][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942351, valid_f1: 0.941647
+[2020-05-17 21:49:59,339][cnn_rnn_main.py][line:273][INFO] --- 70.14949560165405 seconds ---
+[2020-05-17 21:49:59,339][cnn_rnn_main.py][line:195][INFO] Epoch : 27
+[2020-05-17 21:49:59,339][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 21:51:10,735][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077795, valid_loss: 0.082816
+[2020-05-17 21:51:11,866][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942375, valid_f1: 0.941852
+[2020-05-17 21:51:11,866][cnn_rnn_main.py][line:273][INFO] --- 72.52670001983643 seconds ---
+[2020-05-17 21:51:11,866][cnn_rnn_main.py][line:195][INFO] Epoch : 28
+[2020-05-17 21:51:11,866][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 21:52:18,194][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078126, valid_loss: 0.082792
+[2020-05-17 21:52:19,336][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942289, valid_f1: 0.941962
+[2020-05-17 21:52:19,343][cnn_rnn_main.py][line:273][INFO] --- 67.47677636146545 seconds ---
+[2020-05-17 21:52:19,343][cnn_rnn_main.py][line:195][INFO] Epoch : 29
+[2020-05-17 21:52:19,343][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 21:53:23,505][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078187, valid_loss: 0.082789
+[2020-05-17 21:53:24,630][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942337, valid_f1: 0.941863
+[2020-05-17 21:53:24,630][cnn_rnn_main.py][line:273][INFO] --- 65.28762555122375 seconds ---
+[2020-05-17 21:53:24,630][cnn_rnn_main.py][line:195][INFO] Epoch : 30
+[2020-05-17 21:53:24,631][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 21:54:28,862][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078024, valid_loss: 0.082768
+[2020-05-17 21:54:29,991][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942551, valid_f1: 0.941875
+[2020-05-17 21:54:29,991][cnn_rnn_main.py][line:273][INFO] --- 65.36044406890869 seconds ---
+[2020-05-17 21:54:29,991][cnn_rnn_main.py][line:195][INFO] Epoch : 31
+[2020-05-17 21:54:29,991][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 21:55:35,772][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078157, valid_loss: 0.082769
+[2020-05-17 21:55:36,891][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942406, valid_f1: 0.941850
+[2020-05-17 21:55:36,891][cnn_rnn_main.py][line:273][INFO] --- 66.89999628067017 seconds ---
+[2020-05-17 21:55:36,891][cnn_rnn_main.py][line:195][INFO] Epoch : 32
+[2020-05-17 21:55:36,891][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 21:56:41,658][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078122, valid_loss: 0.082782
+[2020-05-17 21:56:42,817][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942430, valid_f1: 0.941898
+[2020-05-17 21:56:42,818][cnn_rnn_main.py][line:273][INFO] --- 65.92649722099304 seconds ---
+[2020-05-17 21:56:42,818][cnn_rnn_main.py][line:195][INFO] Epoch : 33
+[2020-05-17 21:56:42,818][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:57:47,345][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077837, valid_loss: 0.082766
+[2020-05-17 21:57:48,469][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942412, valid_f1: 0.941893
+[2020-05-17 21:57:48,469][cnn_rnn_main.py][line:273][INFO] --- 65.65136957168579 seconds ---
+[2020-05-17 21:57:48,469][cnn_rnn_main.py][line:195][INFO] Epoch : 34
+[2020-05-17 21:57:48,469][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 21:58:52,645][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078174, valid_loss: 0.082768
+[2020-05-17 21:58:53,794][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942503, valid_f1: 0.941845
+[2020-05-17 21:58:53,794][cnn_rnn_main.py][line:273][INFO] --- 65.3247241973877 seconds ---
+[2020-05-17 21:58:53,794][cnn_rnn_main.py][line:195][INFO] Epoch : 35
+[2020-05-17 21:58:53,794][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:00:02,883][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077969, valid_loss: 0.082757
+[2020-05-17 22:00:04,024][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942515, valid_f1: 0.941900
+[2020-05-17 22:00:04,024][cnn_rnn_main.py][line:273][INFO] --- 70.22991132736206 seconds ---
+[2020-05-17 22:00:04,024][cnn_rnn_main.py][line:195][INFO] Epoch : 36
+[2020-05-17 22:00:04,024][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:01:10,445][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078085, valid_loss: 0.082767
+[2020-05-17 22:01:11,589][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942487, valid_f1: 0.941871
+[2020-05-17 22:01:11,589][cnn_rnn_main.py][line:273][INFO] --- 67.56569194793701 seconds ---
+[2020-05-17 22:01:11,589][cnn_rnn_main.py][line:195][INFO] Epoch : 37
+[2020-05-17 22:01:11,590][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:02:15,784][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078022, valid_loss: 0.082761
+[2020-05-17 22:02:16,919][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942546, valid_f1: 0.941880
+[2020-05-17 22:02:16,919][cnn_rnn_main.py][line:273][INFO] --- 65.32968044281006 seconds ---
+[2020-05-17 22:02:16,919][cnn_rnn_main.py][line:195][INFO] Epoch : 38
+[2020-05-17 22:02:16,919][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:03:21,383][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077740, valid_loss: 0.082756
+[2020-05-17 22:03:22,506][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942601, valid_f1: 0.941853
+[2020-05-17 22:03:22,506][cnn_rnn_main.py][line:273][INFO] --- 65.58728170394897 seconds ---
+[2020-05-17 22:03:22,507][cnn_rnn_main.py][line:195][INFO] Epoch : 39
+[2020-05-17 22:03:22,507][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:04:26,947][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077886, valid_loss: 0.082764
+[2020-05-17 22:04:28,090][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942444, valid_f1: 0.941803
+[2020-05-17 22:04:28,090][cnn_rnn_main.py][line:273][INFO] --- 65.58381533622742 seconds ---
+[2020-05-17 22:04:28,090][cnn_rnn_main.py][line:195][INFO] Epoch : 40
+[2020-05-17 22:04:28,090][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:05:32,362][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077967, valid_loss: 0.082756
+[2020-05-17 22:05:33,499][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942442, valid_f1: 0.941802
+[2020-05-17 22:05:33,499][cnn_rnn_main.py][line:273][INFO] --- 65.40845465660095 seconds ---
+[2020-05-17 22:05:33,499][cnn_rnn_main.py][line:195][INFO] Epoch : 41
+[2020-05-17 22:05:33,499][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:06:37,518][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077992, valid_loss: 0.082748
+[2020-05-17 22:06:38,655][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942413, valid_f1: 0.941878
+[2020-05-17 22:06:38,656][cnn_rnn_main.py][line:273][INFO] --- 65.15666437149048 seconds ---
+[2020-05-17 22:06:38,656][cnn_rnn_main.py][line:195][INFO] Epoch : 42
+[2020-05-17 22:06:38,656][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:07:42,977][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077805, valid_loss: 0.082748
+[2020-05-17 22:07:44,100][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942456, valid_f1: 0.941866
+[2020-05-17 22:07:44,100][cnn_rnn_main.py][line:273][INFO] --- 65.44408011436462 seconds ---
+[2020-05-17 22:07:44,100][cnn_rnn_main.py][line:195][INFO] Epoch : 43
+[2020-05-17 22:07:44,100][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:08:48,285][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077952, valid_loss: 0.082752
+[2020-05-17 22:08:49,409][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942582, valid_f1: 0.941878
+[2020-05-17 22:08:49,409][cnn_rnn_main.py][line:273][INFO] --- 65.3089427947998 seconds ---
+[2020-05-17 22:08:49,409][cnn_rnn_main.py][line:195][INFO] Epoch : 44
+[2020-05-17 22:08:49,409][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:09:53,212][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077780, valid_loss: 0.082754
+[2020-05-17 22:09:54,340][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942469, valid_f1: 0.941878
+[2020-05-17 22:09:54,340][cnn_rnn_main.py][line:273][INFO] --- 64.93100261688232 seconds ---
+[2020-05-17 22:09:54,340][cnn_rnn_main.py][line:195][INFO] Epoch : 45
+[2020-05-17 22:09:54,340][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:10:58,633][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077633, valid_loss: 0.082758
+[2020-05-17 22:10:59,755][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942349, valid_f1: 0.941835
+[2020-05-17 22:10:59,755][cnn_rnn_main.py][line:273][INFO] --- 65.41525840759277 seconds ---
+[2020-05-17 22:10:59,755][cnn_rnn_main.py][line:195][INFO] Epoch : 46
+[2020-05-17 22:10:59,755][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:12:04,214][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077585, valid_loss: 0.082761
+[2020-05-17 22:12:05,338][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942429, valid_f1: 0.941849
+[2020-05-17 22:12:05,338][cnn_rnn_main.py][line:273][INFO] --- 65.58331370353699 seconds ---
+[2020-05-17 22:12:05,338][cnn_rnn_main.py][line:195][INFO] Epoch : 47
+[2020-05-17 22:12:05,339][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:13:09,234][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077761, valid_loss: 0.082754
+[2020-05-17 22:13:10,380][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942410, valid_f1: 0.941904
+[2020-05-17 22:13:10,380][cnn_rnn_main.py][line:273][INFO] --- 65.04151225090027 seconds ---
+[2020-05-17 22:13:10,380][cnn_rnn_main.py][line:195][INFO] Epoch : 48
+[2020-05-17 22:13:10,380][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:14:14,253][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078065, valid_loss: 0.082763
+[2020-05-17 22:14:15,373][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942447, valid_f1: 0.941880
+[2020-05-17 22:14:15,373][cnn_rnn_main.py][line:267][INFO] Early Stopping...
+[2020-05-17 22:14:15,373][cnn_rnn_main.py][line:269][INFO] Best Val Score: 0.941962
+[2020-05-17 22:14:41,571][cnn_rnn_main.py][line:158][INFO] ========== Fold 2, TRAIN: (1800,), TEST: (450,) ==========
+[2020-05-17 22:14:41,964][cnn_rnn_main.py][line:195][INFO] Epoch : 0
+[2020-05-17 22:14:41,964][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:15:45,992][cnn_rnn_main.py][line:255][INFO] train_loss: 1.234514, valid_loss: 0.353476
+[2020-05-17 22:15:47,055][cnn_rnn_main.py][line:262][INFO] train_f1: 0.400016, valid_f1: 0.720568
+[2020-05-17 22:15:47,063][cnn_rnn_main.py][line:273][INFO] --- 65.09911179542542 seconds ---
+[2020-05-17 22:15:47,063][cnn_rnn_main.py][line:195][INFO] Epoch : 1
+[2020-05-17 22:15:47,063][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:16:51,652][cnn_rnn_main.py][line:255][INFO] train_loss: 0.196467, valid_loss: 0.109740
+[2020-05-17 22:16:52,756][cnn_rnn_main.py][line:262][INFO] train_f1: 0.865718, valid_f1: 0.933862
+[2020-05-17 22:16:52,762][cnn_rnn_main.py][line:273][INFO] --- 65.69942688941956 seconds ---
+[2020-05-17 22:16:52,763][cnn_rnn_main.py][line:195][INFO] Epoch : 2
+[2020-05-17 22:16:52,763][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:17:57,028][cnn_rnn_main.py][line:255][INFO] train_loss: 0.096890, valid_loss: 0.091056
+[2020-05-17 22:17:58,153][cnn_rnn_main.py][line:262][INFO] train_f1: 0.934535, valid_f1: 0.939032
+[2020-05-17 22:17:58,160][cnn_rnn_main.py][line:273][INFO] --- 65.39795017242432 seconds ---
+[2020-05-17 22:17:58,161][cnn_rnn_main.py][line:195][INFO] Epoch : 3
+[2020-05-17 22:17:58,161][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:19:02,220][cnn_rnn_main.py][line:255][INFO] train_loss: 0.089452, valid_loss: 0.089167
+[2020-05-17 22:19:03,332][cnn_rnn_main.py][line:262][INFO] train_f1: 0.936738, valid_f1: 0.939120
+[2020-05-17 22:19:03,340][cnn_rnn_main.py][line:273][INFO] --- 65.17899966239929 seconds ---
+[2020-05-17 22:19:03,340][cnn_rnn_main.py][line:195][INFO] Epoch : 4
+[2020-05-17 22:19:03,340][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:20:14,215][cnn_rnn_main.py][line:255][INFO] train_loss: 0.086467, valid_loss: 0.088064
+[2020-05-17 22:20:15,324][cnn_rnn_main.py][line:262][INFO] train_f1: 0.937916, valid_f1: 0.939952
+[2020-05-17 22:20:15,332][cnn_rnn_main.py][line:273][INFO] --- 71.99266719818115 seconds ---
+[2020-05-17 22:20:15,332][cnn_rnn_main.py][line:195][INFO] Epoch : 5
+[2020-05-17 22:20:15,332][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:21:19,600][cnn_rnn_main.py][line:255][INFO] train_loss: 0.085150, valid_loss: 0.087261
+[2020-05-17 22:21:20,717][cnn_rnn_main.py][line:262][INFO] train_f1: 0.938388, valid_f1: 0.939848
+[2020-05-17 22:21:20,717][cnn_rnn_main.py][line:273][INFO] --- 65.38514852523804 seconds ---
+[2020-05-17 22:21:20,718][cnn_rnn_main.py][line:195][INFO] Epoch : 6
+[2020-05-17 22:21:20,718][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:22:24,912][cnn_rnn_main.py][line:255][INFO] train_loss: 0.084460, valid_loss: 0.086835
+[2020-05-17 22:22:26,034][cnn_rnn_main.py][line:262][INFO] train_f1: 0.938929, valid_f1: 0.940111
+[2020-05-17 22:22:26,041][cnn_rnn_main.py][line:273][INFO] --- 65.32391285896301 seconds ---
+[2020-05-17 22:22:26,042][cnn_rnn_main.py][line:195][INFO] Epoch : 7
+[2020-05-17 22:22:26,042][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:23:30,165][cnn_rnn_main.py][line:255][INFO] train_loss: 0.083455, valid_loss: 0.086577
+[2020-05-17 22:23:31,284][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939432, valid_f1: 0.940260
+[2020-05-17 22:23:31,292][cnn_rnn_main.py][line:273][INFO] --- 65.2509388923645 seconds ---
+[2020-05-17 22:23:31,293][cnn_rnn_main.py][line:195][INFO] Epoch : 8
+[2020-05-17 22:23:31,293][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:24:35,346][cnn_rnn_main.py][line:255][INFO] train_loss: 0.083787, valid_loss: 0.086709
+[2020-05-17 22:24:36,482][cnn_rnn_main.py][line:262][INFO] train_f1: 0.938923, valid_f1: 0.940025
+[2020-05-17 22:24:36,483][cnn_rnn_main.py][line:273][INFO] --- 65.19010281562805 seconds ---
+[2020-05-17 22:24:36,483][cnn_rnn_main.py][line:195][INFO] Epoch : 9
+[2020-05-17 22:24:36,483][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:25:40,530][cnn_rnn_main.py][line:255][INFO] train_loss: 0.082779, valid_loss: 0.085838
+[2020-05-17 22:25:41,653][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939731, valid_f1: 0.940538
+[2020-05-17 22:25:41,661][cnn_rnn_main.py][line:273][INFO] --- 65.17825841903687 seconds ---
+[2020-05-17 22:25:41,661][cnn_rnn_main.py][line:195][INFO] Epoch : 10
+[2020-05-17 22:25:41,661][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:26:45,704][cnn_rnn_main.py][line:255][INFO] train_loss: 0.082348, valid_loss: 0.085634
+[2020-05-17 22:26:46,841][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939783, valid_f1: 0.940676
+[2020-05-17 22:26:46,849][cnn_rnn_main.py][line:273][INFO] --- 65.18812227249146 seconds ---
+[2020-05-17 22:26:46,849][cnn_rnn_main.py][line:195][INFO] Epoch : 11
+[2020-05-17 22:26:46,849][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:27:51,169][cnn_rnn_main.py][line:255][INFO] train_loss: 0.082592, valid_loss: 0.085160
+[2020-05-17 22:27:52,293][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939912, valid_f1: 0.940871
+[2020-05-17 22:27:52,301][cnn_rnn_main.py][line:273][INFO] --- 65.45155477523804 seconds ---
+[2020-05-17 22:27:52,301][cnn_rnn_main.py][line:195][INFO] Epoch : 12
+[2020-05-17 22:27:52,301][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:28:56,736][cnn_rnn_main.py][line:255][INFO] train_loss: 0.081810, valid_loss: 0.085139
+[2020-05-17 22:28:57,855][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940260, valid_f1: 0.941137
+[2020-05-17 22:28:57,863][cnn_rnn_main.py][line:273][INFO] --- 65.56242036819458 seconds ---
+[2020-05-17 22:28:57,863][cnn_rnn_main.py][line:195][INFO] Epoch : 13
+[2020-05-17 22:28:57,863][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:30:01,939][cnn_rnn_main.py][line:255][INFO] train_loss: 0.081383, valid_loss: 0.086990
+[2020-05-17 22:30:03,052][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940371, valid_f1: 0.937193
+[2020-05-17 22:30:03,052][cnn_rnn_main.py][line:273][INFO] --- 65.18839073181152 seconds ---
+[2020-05-17 22:30:03,052][cnn_rnn_main.py][line:195][INFO] Epoch : 14
+[2020-05-17 22:30:03,052][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:31:07,195][cnn_rnn_main.py][line:255][INFO] train_loss: 0.081649, valid_loss: 0.085350
+[2020-05-17 22:31:08,332][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939999, valid_f1: 0.940885
+[2020-05-17 22:31:08,333][cnn_rnn_main.py][line:273][INFO] --- 65.2808427810669 seconds ---
+[2020-05-17 22:31:08,333][cnn_rnn_main.py][line:195][INFO] Epoch : 15
+[2020-05-17 22:31:08,333][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:32:12,556][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080919, valid_loss: 0.085576
+[2020-05-17 22:32:13,680][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940608, valid_f1: 0.940131
+[2020-05-17 22:32:13,680][cnn_rnn_main.py][line:273][INFO] --- 65.34750556945801 seconds ---
+[2020-05-17 22:32:13,680][cnn_rnn_main.py][line:195][INFO] Epoch : 16
+[2020-05-17 22:32:13,680][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 22:33:17,695][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080659, valid_loss: 0.085323
+[2020-05-17 22:33:18,838][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940671, valid_f1: 0.940563
+[2020-05-17 22:33:18,838][cnn_rnn_main.py][line:273][INFO] --- 65.15812969207764 seconds ---
+[2020-05-17 22:33:18,838][cnn_rnn_main.py][line:195][INFO] Epoch : 17
+[2020-05-17 22:33:18,838][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 22:34:23,039][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079773, valid_loss: 0.084553
+[2020-05-17 22:34:24,176][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941298, valid_f1: 0.940544
+[2020-05-17 22:34:24,176][cnn_rnn_main.py][line:273][INFO] --- 65.33748388290405 seconds ---
+[2020-05-17 22:34:24,176][cnn_rnn_main.py][line:195][INFO] Epoch : 18
+[2020-05-17 22:34:24,176][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 22:35:28,234][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079467, valid_loss: 0.084392
+[2020-05-17 22:35:29,384][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941444, valid_f1: 0.941208
+[2020-05-17 22:35:29,392][cnn_rnn_main.py][line:273][INFO] --- 65.21641635894775 seconds ---
+[2020-05-17 22:35:29,392][cnn_rnn_main.py][line:195][INFO] Epoch : 19
+[2020-05-17 22:35:29,392][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 22:36:33,462][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079381, valid_loss: 0.084458
+[2020-05-17 22:36:34,594][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941338, valid_f1: 0.941095
+[2020-05-17 22:36:34,594][cnn_rnn_main.py][line:273][INFO] --- 65.20167636871338 seconds ---
+[2020-05-17 22:36:34,594][cnn_rnn_main.py][line:195][INFO] Epoch : 20
+[2020-05-17 22:36:34,594][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 22:37:38,726][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079870, valid_loss: 0.084286
+[2020-05-17 22:37:39,845][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941626, valid_f1: 0.941239
+[2020-05-17 22:37:39,851][cnn_rnn_main.py][line:273][INFO] --- 65.25722289085388 seconds ---
+[2020-05-17 22:37:39,851][cnn_rnn_main.py][line:195][INFO] Epoch : 21
+[2020-05-17 22:37:39,851][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 22:38:44,581][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079457, valid_loss: 0.084229
+[2020-05-17 22:38:45,718][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941359, valid_f1: 0.941349
+[2020-05-17 22:38:45,725][cnn_rnn_main.py][line:273][INFO] --- 65.87401556968689 seconds ---
+[2020-05-17 22:38:45,726][cnn_rnn_main.py][line:195][INFO] Epoch : 22
+[2020-05-17 22:38:45,726][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 22:39:49,922][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079119, valid_loss: 0.084307
+[2020-05-17 22:39:51,036][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941404, valid_f1: 0.940976
+[2020-05-17 22:39:51,036][cnn_rnn_main.py][line:273][INFO] --- 65.31027126312256 seconds ---
+[2020-05-17 22:39:51,036][cnn_rnn_main.py][line:195][INFO] Epoch : 23
+[2020-05-17 22:39:51,036][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 22:40:55,412][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079289, valid_loss: 0.084277
+[2020-05-17 22:40:56,527][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941487, valid_f1: 0.941356
+[2020-05-17 22:40:56,535][cnn_rnn_main.py][line:273][INFO] --- 65.49906992912292 seconds ---
+[2020-05-17 22:40:56,535][cnn_rnn_main.py][line:195][INFO] Epoch : 24
+[2020-05-17 22:40:56,535][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 22:42:00,830][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079234, valid_loss: 0.084256
+[2020-05-17 22:42:01,945][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941658, valid_f1: 0.941256
+[2020-05-17 22:42:01,945][cnn_rnn_main.py][line:273][INFO] --- 65.4099657535553 seconds ---
+[2020-05-17 22:42:01,945][cnn_rnn_main.py][line:195][INFO] Epoch : 25
+[2020-05-17 22:42:01,945][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 22:43:06,406][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079248, valid_loss: 0.084245
+[2020-05-17 22:43:07,526][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941552, valid_f1: 0.941248
+[2020-05-17 22:43:07,526][cnn_rnn_main.py][line:273][INFO] --- 65.58079838752747 seconds ---
+[2020-05-17 22:43:07,526][cnn_rnn_main.py][line:195][INFO] Epoch : 26
+[2020-05-17 22:43:07,526][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-17 22:44:11,491][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078718, valid_loss: 0.084022
+[2020-05-17 22:44:12,613][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941877, valid_f1: 0.941427
+[2020-05-17 22:44:12,620][cnn_rnn_main.py][line:273][INFO] --- 65.09447479248047 seconds ---
+[2020-05-17 22:44:12,620][cnn_rnn_main.py][line:195][INFO] Epoch : 27
+[2020-05-17 22:44:12,621][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-17 22:45:17,181][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078912, valid_loss: 0.083972
+[2020-05-17 22:45:18,311][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941835, valid_f1: 0.941376
+[2020-05-17 22:45:18,311][cnn_rnn_main.py][line:273][INFO] --- 65.69101309776306 seconds ---
+[2020-05-17 22:45:18,312][cnn_rnn_main.py][line:195][INFO] Epoch : 28
+[2020-05-17 22:45:18,312][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-17 22:46:22,436][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078483, valid_loss: 0.084120
+[2020-05-17 22:46:23,553][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941876, valid_f1: 0.940657
+[2020-05-17 22:46:23,554][cnn_rnn_main.py][line:273][INFO] --- 65.24202799797058 seconds ---
+[2020-05-17 22:46:23,554][cnn_rnn_main.py][line:195][INFO] Epoch : 29
+[2020-05-17 22:46:23,554][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-17 22:47:27,692][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078705, valid_loss: 0.083985
+[2020-05-17 22:47:28,802][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941818, valid_f1: 0.941400
+[2020-05-17 22:47:28,802][cnn_rnn_main.py][line:273][INFO] --- 65.24841952323914 seconds ---
+[2020-05-17 22:47:28,802][cnn_rnn_main.py][line:195][INFO] Epoch : 30
+[2020-05-17 22:47:28,802][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 22:48:32,873][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078538, valid_loss: 0.083930
+[2020-05-17 22:48:33,993][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941916, valid_f1: 0.941391
+[2020-05-17 22:48:33,993][cnn_rnn_main.py][line:273][INFO] --- 65.19130110740662 seconds ---
+[2020-05-17 22:48:33,993][cnn_rnn_main.py][line:195][INFO] Epoch : 31
+[2020-05-17 22:48:33,994][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 22:49:37,847][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078531, valid_loss: 0.083918
+[2020-05-17 22:49:38,973][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942067, valid_f1: 0.941307
+[2020-05-17 22:49:38,973][cnn_rnn_main.py][line:273][INFO] --- 64.97952318191528 seconds ---
+[2020-05-17 22:49:38,973][cnn_rnn_main.py][line:195][INFO] Epoch : 32
+[2020-05-17 22:49:38,973][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 22:50:43,021][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078908, valid_loss: 0.083921
+[2020-05-17 22:50:44,131][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941836, valid_f1: 0.941304
+[2020-05-17 22:50:44,131][cnn_rnn_main.py][line:273][INFO] --- 65.15796160697937 seconds ---
+[2020-05-17 22:50:44,131][cnn_rnn_main.py][line:195][INFO] Epoch : 33
+[2020-05-17 22:50:44,131][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 22:51:48,120][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078780, valid_loss: 0.083934
+[2020-05-17 22:51:49,237][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941959, valid_f1: 0.941409
+[2020-05-17 22:51:49,237][cnn_rnn_main.py][line:273][INFO] --- 65.10613775253296 seconds ---
+[2020-05-17 22:51:49,237][cnn_rnn_main.py][line:195][INFO] Epoch : 34
+[2020-05-17 22:51:49,237][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:52:53,497][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078671, valid_loss: 0.083904
+[2020-05-17 22:52:54,618][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941875, valid_f1: 0.941356
+[2020-05-17 22:52:54,618][cnn_rnn_main.py][line:273][INFO] --- 65.38117051124573 seconds ---
+[2020-05-17 22:52:54,618][cnn_rnn_main.py][line:195][INFO] Epoch : 35
+[2020-05-17 22:52:54,619][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:53:58,660][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078368, valid_loss: 0.083908
+[2020-05-17 22:53:59,790][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941957, valid_f1: 0.941357
+[2020-05-17 22:53:59,790][cnn_rnn_main.py][line:273][INFO] --- 65.17125654220581 seconds ---
+[2020-05-17 22:53:59,790][cnn_rnn_main.py][line:195][INFO] Epoch : 36
+[2020-05-17 22:53:59,790][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:55:04,073][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078192, valid_loss: 0.083902
+[2020-05-17 22:55:05,208][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942034, valid_f1: 0.941370
+[2020-05-17 22:55:05,209][cnn_rnn_main.py][line:273][INFO] --- 65.41875314712524 seconds ---
+[2020-05-17 22:55:05,209][cnn_rnn_main.py][line:195][INFO] Epoch : 37
+[2020-05-17 22:55:05,209][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:56:09,398][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078506, valid_loss: 0.083888
+[2020-05-17 22:56:10,519][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941831, valid_f1: 0.941374
+[2020-05-17 22:56:10,519][cnn_rnn_main.py][line:273][INFO] --- 65.31073427200317 seconds ---
+[2020-05-17 22:56:10,519][cnn_rnn_main.py][line:195][INFO] Epoch : 38
+[2020-05-17 22:56:10,519][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:57:14,361][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078358, valid_loss: 0.083907
+[2020-05-17 22:57:15,509][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942005, valid_f1: 0.941400
+[2020-05-17 22:57:15,509][cnn_rnn_main.py][line:273][INFO] --- 64.9897232055664 seconds ---
+[2020-05-17 22:57:15,509][cnn_rnn_main.py][line:195][INFO] Epoch : 39
+[2020-05-17 22:57:15,509][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:58:19,500][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078280, valid_loss: 0.083913
+[2020-05-17 22:58:20,618][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942124, valid_f1: 0.941331
+[2020-05-17 22:58:20,618][cnn_rnn_main.py][line:273][INFO] --- 65.10872960090637 seconds ---
+[2020-05-17 22:58:20,618][cnn_rnn_main.py][line:195][INFO] Epoch : 40
+[2020-05-17 22:58:20,618][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 22:59:24,983][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078485, valid_loss: 0.083926
+[2020-05-17 22:59:26,102][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941963, valid_f1: 0.941320
+[2020-05-17 22:59:26,102][cnn_rnn_main.py][line:273][INFO] --- 65.48375940322876 seconds ---
+[2020-05-17 22:59:26,102][cnn_rnn_main.py][line:195][INFO] Epoch : 41
+[2020-05-17 22:59:26,102][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:00:30,377][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078452, valid_loss: 0.083908
+[2020-05-17 23:00:31,513][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941877, valid_f1: 0.941250
+[2020-05-17 23:00:31,513][cnn_rnn_main.py][line:273][INFO] --- 65.41104555130005 seconds ---
+[2020-05-17 23:00:31,513][cnn_rnn_main.py][line:195][INFO] Epoch : 42
+[2020-05-17 23:00:31,513][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:01:35,434][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078448, valid_loss: 0.083901
+[2020-05-17 23:01:36,582][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942082, valid_f1: 0.941285
+[2020-05-17 23:01:36,582][cnn_rnn_main.py][line:273][INFO] --- 65.0688705444336 seconds ---
+[2020-05-17 23:01:36,582][cnn_rnn_main.py][line:195][INFO] Epoch : 43
+[2020-05-17 23:01:36,582][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:02:40,724][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078547, valid_loss: 0.083909
+[2020-05-17 23:02:41,855][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942021, valid_f1: 0.941261
+[2020-05-17 23:02:41,855][cnn_rnn_main.py][line:273][INFO] --- 65.27308440208435 seconds ---
+[2020-05-17 23:02:41,855][cnn_rnn_main.py][line:195][INFO] Epoch : 44
+[2020-05-17 23:02:41,855][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:03:46,173][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078677, valid_loss: 0.083890
+[2020-05-17 23:03:47,293][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941921, valid_f1: 0.941395
+[2020-05-17 23:03:47,293][cnn_rnn_main.py][line:273][INFO] --- 65.43815302848816 seconds ---
+[2020-05-17 23:03:47,293][cnn_rnn_main.py][line:195][INFO] Epoch : 45
+[2020-05-17 23:03:47,293][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:04:51,459][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078320, valid_loss: 0.083876
+[2020-05-17 23:04:52,598][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942063, valid_f1: 0.941422
+[2020-05-17 23:04:52,598][cnn_rnn_main.py][line:273][INFO] --- 65.30464172363281 seconds ---
+[2020-05-17 23:04:52,598][cnn_rnn_main.py][line:195][INFO] Epoch : 46
+[2020-05-17 23:04:52,598][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:05:57,128][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078207, valid_loss: 0.083886
+[2020-05-17 23:05:58,268][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941960, valid_f1: 0.941302
+[2020-05-17 23:05:58,268][cnn_rnn_main.py][line:267][INFO] Early Stopping...
+[2020-05-17 23:05:58,268][cnn_rnn_main.py][line:269][INFO] Best Val Score: 0.941427
+[2020-05-17 23:06:24,729][cnn_rnn_main.py][line:158][INFO] ========== Fold 3, TRAIN: (1800,), TEST: (450,) ==========
+[2020-05-17 23:06:25,092][cnn_rnn_main.py][line:195][INFO] Epoch : 0
+[2020-05-17 23:06:25,092][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 23:07:29,721][cnn_rnn_main.py][line:255][INFO] train_loss: 1.719372, valid_loss: 0.613658
+[2020-05-17 23:07:30,774][cnn_rnn_main.py][line:262][INFO] train_f1: 0.194984, valid_f1: 0.518067
+[2020-05-17 23:07:30,781][cnn_rnn_main.py][line:273][INFO] --- 65.6892294883728 seconds ---
+[2020-05-17 23:07:30,781][cnn_rnn_main.py][line:195][INFO] Epoch : 1
+[2020-05-17 23:07:30,781][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 23:08:35,121][cnn_rnn_main.py][line:255][INFO] train_loss: 0.373197, valid_loss: 0.240180
+[2020-05-17 23:08:36,194][cnn_rnn_main.py][line:262][INFO] train_f1: 0.738591, valid_f1: 0.846558
+[2020-05-17 23:08:36,201][cnn_rnn_main.py][line:273][INFO] --- 65.4197747707367 seconds ---
+[2020-05-17 23:08:36,201][cnn_rnn_main.py][line:195][INFO] Epoch : 2
+[2020-05-17 23:08:36,201][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 23:09:40,632][cnn_rnn_main.py][line:255][INFO] train_loss: 0.179200, valid_loss: 0.120226
+[2020-05-17 23:09:41,758][cnn_rnn_main.py][line:262][INFO] train_f1: 0.883010, valid_f1: 0.929154
+[2020-05-17 23:09:41,765][cnn_rnn_main.py][line:273][INFO] --- 65.56346487998962 seconds ---
+[2020-05-17 23:09:41,765][cnn_rnn_main.py][line:195][INFO] Epoch : 3
+[2020-05-17 23:09:41,765][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 23:10:46,109][cnn_rnn_main.py][line:255][INFO] train_loss: 0.098840, valid_loss: 0.093975
+[2020-05-17 23:10:47,253][cnn_rnn_main.py][line:262][INFO] train_f1: 0.933509, valid_f1: 0.937069
+[2020-05-17 23:10:47,261][cnn_rnn_main.py][line:273][INFO] --- 65.4960355758667 seconds ---
+[2020-05-17 23:10:47,261][cnn_rnn_main.py][line:195][INFO] Epoch : 4
+[2020-05-17 23:10:47,261][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 23:11:51,228][cnn_rnn_main.py][line:255][INFO] train_loss: 0.090738, valid_loss: 0.089789
+[2020-05-17 23:11:52,357][cnn_rnn_main.py][line:262][INFO] train_f1: 0.935681, valid_f1: 0.939539
+[2020-05-17 23:11:52,365][cnn_rnn_main.py][line:273][INFO] --- 65.10396122932434 seconds ---
+[2020-05-17 23:11:52,365][cnn_rnn_main.py][line:195][INFO] Epoch : 5
+[2020-05-17 23:11:52,365][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 23:13:08,767][cnn_rnn_main.py][line:255][INFO] train_loss: 0.086347, valid_loss: 0.089370
+[2020-05-17 23:13:09,890][cnn_rnn_main.py][line:262][INFO] train_f1: 0.937788, valid_f1: 0.939677
+[2020-05-17 23:13:09,898][cnn_rnn_main.py][line:273][INFO] --- 77.53328657150269 seconds ---
+[2020-05-17 23:13:09,898][cnn_rnn_main.py][line:195][INFO] Epoch : 6
+[2020-05-17 23:13:09,898][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 23:14:26,751][cnn_rnn_main.py][line:255][INFO] train_loss: 0.084956, valid_loss: 0.087675
+[2020-05-17 23:14:27,881][cnn_rnn_main.py][line:262][INFO] train_f1: 0.938493, valid_f1: 0.939859
+[2020-05-17 23:14:27,888][cnn_rnn_main.py][line:273][INFO] --- 77.9899525642395 seconds ---
+[2020-05-17 23:14:27,888][cnn_rnn_main.py][line:195][INFO] Epoch : 7
+[2020-05-17 23:14:27,888][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 23:15:32,113][cnn_rnn_main.py][line:255][INFO] train_loss: 0.085268, valid_loss: 0.086715
+[2020-05-17 23:15:33,241][cnn_rnn_main.py][line:262][INFO] train_f1: 0.937737, valid_f1: 0.940710
+[2020-05-17 23:15:33,248][cnn_rnn_main.py][line:273][INFO] --- 65.35967946052551 seconds ---
+[2020-05-17 23:15:33,248][cnn_rnn_main.py][line:195][INFO] Epoch : 8
+[2020-05-17 23:15:33,248][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 23:16:37,168][cnn_rnn_main.py][line:255][INFO] train_loss: 0.082388, valid_loss: 0.086705
+[2020-05-17 23:16:38,295][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939760, valid_f1: 0.940270
+[2020-05-17 23:16:38,295][cnn_rnn_main.py][line:273][INFO] --- 65.04720783233643 seconds ---
+[2020-05-17 23:16:38,295][cnn_rnn_main.py][line:195][INFO] Epoch : 9
+[2020-05-17 23:16:38,295][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 23:17:42,648][cnn_rnn_main.py][line:255][INFO] train_loss: 0.082364, valid_loss: 0.086362
+[2020-05-17 23:17:43,770][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939587, valid_f1: 0.940588
+[2020-05-17 23:17:43,770][cnn_rnn_main.py][line:273][INFO] --- 65.47465324401855 seconds ---
+[2020-05-17 23:17:43,770][cnn_rnn_main.py][line:195][INFO] Epoch : 10
+[2020-05-17 23:17:43,770][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 23:18:47,955][cnn_rnn_main.py][line:255][INFO] train_loss: 0.081573, valid_loss: 0.085572
+[2020-05-17 23:18:49,084][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940274, valid_f1: 0.940825
+[2020-05-17 23:18:49,092][cnn_rnn_main.py][line:273][INFO] --- 65.3222930431366 seconds ---
+[2020-05-17 23:18:49,092][cnn_rnn_main.py][line:195][INFO] Epoch : 11
+[2020-05-17 23:18:49,092][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 23:19:53,163][cnn_rnn_main.py][line:255][INFO] train_loss: 0.081442, valid_loss: 0.085925
+[2020-05-17 23:19:54,289][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940104, valid_f1: 0.940382
+[2020-05-17 23:19:54,289][cnn_rnn_main.py][line:273][INFO] --- 65.19641137123108 seconds ---
+[2020-05-17 23:19:54,289][cnn_rnn_main.py][line:195][INFO] Epoch : 12
+[2020-05-17 23:19:54,289][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 23:20:58,479][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080545, valid_loss: 0.085401
+[2020-05-17 23:20:59,616][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940675, valid_f1: 0.940805
+[2020-05-17 23:20:59,616][cnn_rnn_main.py][line:273][INFO] --- 65.32717990875244 seconds ---
+[2020-05-17 23:20:59,616][cnn_rnn_main.py][line:195][INFO] Epoch : 13
+[2020-05-17 23:20:59,616][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 23:22:03,825][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080928, valid_loss: 0.086276
+[2020-05-17 23:22:04,941][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940266, valid_f1: 0.940296
+[2020-05-17 23:22:04,942][cnn_rnn_main.py][line:273][INFO] --- 65.32542896270752 seconds ---
+[2020-05-17 23:22:04,942][cnn_rnn_main.py][line:195][INFO] Epoch : 14
+[2020-05-17 23:22:04,942][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-17 23:23:09,103][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080667, valid_loss: 0.085302
+[2020-05-17 23:23:10,222][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940592, valid_f1: 0.940636
+[2020-05-17 23:23:10,222][cnn_rnn_main.py][line:273][INFO] --- 65.28068804740906 seconds ---
+[2020-05-17 23:23:10,222][cnn_rnn_main.py][line:195][INFO] Epoch : 15
+[2020-05-17 23:23:10,222][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 23:24:14,382][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079290, valid_loss: 0.084616
+[2020-05-17 23:24:15,528][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941492, valid_f1: 0.941394
+[2020-05-17 23:24:15,536][cnn_rnn_main.py][line:273][INFO] --- 65.31374216079712 seconds ---
+[2020-05-17 23:24:15,536][cnn_rnn_main.py][line:195][INFO] Epoch : 16
+[2020-05-17 23:24:15,536][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 23:25:19,622][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079352, valid_loss: 0.084608
+[2020-05-17 23:25:20,765][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941643, valid_f1: 0.941390
+[2020-05-17 23:25:20,765][cnn_rnn_main.py][line:273][INFO] --- 65.22882533073425 seconds ---
+[2020-05-17 23:25:20,765][cnn_rnn_main.py][line:195][INFO] Epoch : 17
+[2020-05-17 23:25:20,765][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 23:26:24,610][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079143, valid_loss: 0.084627
+[2020-05-17 23:26:25,739][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941534, valid_f1: 0.941275
+[2020-05-17 23:26:25,739][cnn_rnn_main.py][line:273][INFO] --- 64.97408723831177 seconds ---
+[2020-05-17 23:26:25,739][cnn_rnn_main.py][line:195][INFO] Epoch : 18
+[2020-05-17 23:26:25,739][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 23:27:30,055][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079245, valid_loss: 0.084701
+[2020-05-17 23:27:31,174][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941517, valid_f1: 0.941194
+[2020-05-17 23:27:31,175][cnn_rnn_main.py][line:273][INFO] --- 65.4353539943695 seconds ---
+[2020-05-17 23:27:31,175][cnn_rnn_main.py][line:195][INFO] Epoch : 19
+[2020-05-17 23:27:31,175][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-17 23:28:35,105][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079433, valid_loss: 0.084501
+[2020-05-17 23:28:36,234][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941552, valid_f1: 0.941348
+[2020-05-17 23:28:36,235][cnn_rnn_main.py][line:273][INFO] --- 65.06001949310303 seconds ---
+[2020-05-17 23:28:36,235][cnn_rnn_main.py][line:195][INFO] Epoch : 20
+[2020-05-17 23:28:36,235][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-17 23:29:40,549][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079033, valid_loss: 0.084365
+[2020-05-17 23:29:41,687][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941603, valid_f1: 0.941410
+[2020-05-17 23:29:41,694][cnn_rnn_main.py][line:273][INFO] --- 65.45883107185364 seconds ---
+[2020-05-17 23:29:41,694][cnn_rnn_main.py][line:195][INFO] Epoch : 21
+[2020-05-17 23:29:41,694][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-17 23:30:45,768][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078541, valid_loss: 0.084447
+[2020-05-17 23:30:46,892][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941805, valid_f1: 0.941405
+[2020-05-17 23:30:46,892][cnn_rnn_main.py][line:273][INFO] --- 65.19823503494263 seconds ---
+[2020-05-17 23:30:46,892][cnn_rnn_main.py][line:195][INFO] Epoch : 22
+[2020-05-17 23:30:46,892][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-17 23:31:50,971][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078657, valid_loss: 0.084352
+[2020-05-17 23:31:52,102][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941686, valid_f1: 0.941325
+[2020-05-17 23:31:52,102][cnn_rnn_main.py][line:273][INFO] --- 65.2099199295044 seconds ---
+[2020-05-17 23:31:52,102][cnn_rnn_main.py][line:195][INFO] Epoch : 23
+[2020-05-17 23:31:52,102][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-17 23:32:56,241][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078607, valid_loss: 0.084317
+[2020-05-17 23:32:57,384][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941844, valid_f1: 0.941486
+[2020-05-17 23:32:57,391][cnn_rnn_main.py][line:273][INFO] --- 65.28929471969604 seconds ---
+[2020-05-17 23:32:57,391][cnn_rnn_main.py][line:195][INFO] Epoch : 24
+[2020-05-17 23:32:57,391][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 23:34:01,559][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078252, valid_loss: 0.084277
+[2020-05-17 23:34:02,689][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941841, valid_f1: 0.941549
+[2020-05-17 23:34:02,697][cnn_rnn_main.py][line:273][INFO] --- 65.30541491508484 seconds ---
+[2020-05-17 23:34:02,697][cnn_rnn_main.py][line:195][INFO] Epoch : 25
+[2020-05-17 23:34:02,697][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 23:35:06,941][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078435, valid_loss: 0.084264
+[2020-05-17 23:35:08,066][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941781, valid_f1: 0.941588
+[2020-05-17 23:35:08,073][cnn_rnn_main.py][line:273][INFO] --- 65.37662029266357 seconds ---
+[2020-05-17 23:35:08,073][cnn_rnn_main.py][line:195][INFO] Epoch : 26
+[2020-05-17 23:35:08,073][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 23:36:12,274][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078579, valid_loss: 0.084292
+[2020-05-17 23:36:13,398][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941891, valid_f1: 0.941516
+[2020-05-17 23:36:13,398][cnn_rnn_main.py][line:273][INFO] --- 65.32471561431885 seconds ---
+[2020-05-17 23:36:13,398][cnn_rnn_main.py][line:195][INFO] Epoch : 27
+[2020-05-17 23:36:13,398][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 23:37:17,446][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078289, valid_loss: 0.084236
+[2020-05-17 23:37:18,563][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941707, valid_f1: 0.941586
+[2020-05-17 23:37:18,563][cnn_rnn_main.py][line:273][INFO] --- 65.16520404815674 seconds ---
+[2020-05-17 23:37:18,563][cnn_rnn_main.py][line:195][INFO] Epoch : 28
+[2020-05-17 23:37:18,563][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-17 23:38:22,412][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078694, valid_loss: 0.084253
+[2020-05-17 23:38:23,554][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941876, valid_f1: 0.941609
+[2020-05-17 23:38:23,561][cnn_rnn_main.py][line:273][INFO] --- 64.9971194267273 seconds ---
+[2020-05-17 23:38:23,561][cnn_rnn_main.py][line:195][INFO] Epoch : 29
+[2020-05-17 23:38:23,561][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:39:27,484][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078519, valid_loss: 0.084242
+[2020-05-17 23:39:28,620][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941773, valid_f1: 0.941557
+[2020-05-17 23:39:28,620][cnn_rnn_main.py][line:273][INFO] --- 65.05930376052856 seconds ---
+[2020-05-17 23:39:28,620][cnn_rnn_main.py][line:195][INFO] Epoch : 30
+[2020-05-17 23:39:28,620][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:40:32,749][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078324, valid_loss: 0.084248
+[2020-05-17 23:40:33,875][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941839, valid_f1: 0.941580
+[2020-05-17 23:40:33,875][cnn_rnn_main.py][line:273][INFO] --- 65.25536012649536 seconds ---
+[2020-05-17 23:40:33,875][cnn_rnn_main.py][line:195][INFO] Epoch : 31
+[2020-05-17 23:40:33,875][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:41:37,928][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078690, valid_loss: 0.084229
+[2020-05-17 23:41:39,052][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941861, valid_f1: 0.941639
+[2020-05-17 23:41:39,060][cnn_rnn_main.py][line:273][INFO] --- 65.1847550868988 seconds ---
+[2020-05-17 23:41:39,060][cnn_rnn_main.py][line:195][INFO] Epoch : 32
+[2020-05-17 23:41:39,060][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:42:43,200][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078378, valid_loss: 0.084231
+[2020-05-17 23:42:44,326][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941865, valid_f1: 0.941616
+[2020-05-17 23:42:44,326][cnn_rnn_main.py][line:273][INFO] --- 65.26567482948303 seconds ---
+[2020-05-17 23:42:44,326][cnn_rnn_main.py][line:195][INFO] Epoch : 33
+[2020-05-17 23:42:44,326][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:43:48,661][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078368, valid_loss: 0.084240
+[2020-05-17 23:43:49,791][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941966, valid_f1: 0.941471
+[2020-05-17 23:43:49,791][cnn_rnn_main.py][line:273][INFO] --- 65.46479368209839 seconds ---
+[2020-05-17 23:43:49,791][cnn_rnn_main.py][line:195][INFO] Epoch : 34
+[2020-05-17 23:43:49,791][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:44:54,196][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078606, valid_loss: 0.084216
+[2020-05-17 23:44:55,336][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941785, valid_f1: 0.941598
+[2020-05-17 23:44:55,336][cnn_rnn_main.py][line:273][INFO] --- 65.54487133026123 seconds ---
+[2020-05-17 23:44:55,336][cnn_rnn_main.py][line:195][INFO] Epoch : 35
+[2020-05-17 23:44:55,336][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:45:59,882][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078779, valid_loss: 0.084230
+[2020-05-17 23:46:01,019][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941762, valid_f1: 0.941563
+[2020-05-17 23:46:01,020][cnn_rnn_main.py][line:273][INFO] --- 65.68392133712769 seconds ---
+[2020-05-17 23:46:01,020][cnn_rnn_main.py][line:195][INFO] Epoch : 36
+[2020-05-17 23:46:01,020][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:47:04,933][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078338, valid_loss: 0.084211
+[2020-05-17 23:47:06,052][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941906, valid_f1: 0.941612
+[2020-05-17 23:47:06,052][cnn_rnn_main.py][line:273][INFO] --- 65.03240203857422 seconds ---
+[2020-05-17 23:47:06,052][cnn_rnn_main.py][line:195][INFO] Epoch : 37
+[2020-05-17 23:47:06,052][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:48:10,489][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078627, valid_loss: 0.084233
+[2020-05-17 23:48:11,617][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941885, valid_f1: 0.941691
+[2020-05-17 23:48:11,624][cnn_rnn_main.py][line:273][INFO] --- 65.57187819480896 seconds ---
+[2020-05-17 23:48:11,624][cnn_rnn_main.py][line:195][INFO] Epoch : 38
+[2020-05-17 23:48:11,624][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:49:16,093][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078611, valid_loss: 0.084213
+[2020-05-17 23:49:17,228][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941974, valid_f1: 0.941544
+[2020-05-17 23:49:17,229][cnn_rnn_main.py][line:273][INFO] --- 65.60444021224976 seconds ---
+[2020-05-17 23:49:17,229][cnn_rnn_main.py][line:195][INFO] Epoch : 39
+[2020-05-17 23:49:17,229][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:50:21,595][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078178, valid_loss: 0.084223
+[2020-05-17 23:50:22,729][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941942, valid_f1: 0.941636
+[2020-05-17 23:50:22,729][cnn_rnn_main.py][line:273][INFO] --- 65.50079655647278 seconds ---
+[2020-05-17 23:50:22,729][cnn_rnn_main.py][line:195][INFO] Epoch : 40
+[2020-05-17 23:50:22,729][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:51:27,158][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078329, valid_loss: 0.084219
+[2020-05-17 23:51:28,291][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941966, valid_f1: 0.941598
+[2020-05-17 23:51:28,291][cnn_rnn_main.py][line:273][INFO] --- 65.56142926216125 seconds ---
+[2020-05-17 23:51:28,291][cnn_rnn_main.py][line:195][INFO] Epoch : 41
+[2020-05-17 23:51:28,291][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:52:32,542][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078366, valid_loss: 0.084227
+[2020-05-17 23:52:33,668][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941879, valid_f1: 0.941493
+[2020-05-17 23:52:33,668][cnn_rnn_main.py][line:273][INFO] --- 65.37721467018127 seconds ---
+[2020-05-17 23:52:33,668][cnn_rnn_main.py][line:195][INFO] Epoch : 42
+[2020-05-17 23:52:33,668][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:53:37,779][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078161, valid_loss: 0.084198
+[2020-05-17 23:53:38,904][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941985, valid_f1: 0.941620
+[2020-05-17 23:53:38,904][cnn_rnn_main.py][line:273][INFO] --- 65.23568797111511 seconds ---
+[2020-05-17 23:53:38,904][cnn_rnn_main.py][line:195][INFO] Epoch : 43
+[2020-05-17 23:53:38,904][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:54:42,774][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078362, valid_loss: 0.084204
+[2020-05-17 23:54:43,910][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941938, valid_f1: 0.941620
+[2020-05-17 23:54:43,910][cnn_rnn_main.py][line:273][INFO] --- 65.00609064102173 seconds ---
+[2020-05-17 23:54:43,910][cnn_rnn_main.py][line:195][INFO] Epoch : 44
+[2020-05-17 23:54:43,910][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:55:47,979][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078239, valid_loss: 0.084228
+[2020-05-17 23:55:49,109][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941922, valid_f1: 0.941542
+[2020-05-17 23:55:49,109][cnn_rnn_main.py][line:273][INFO] --- 65.19900178909302 seconds ---
+[2020-05-17 23:55:49,109][cnn_rnn_main.py][line:195][INFO] Epoch : 45
+[2020-05-17 23:55:49,109][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:56:53,188][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078616, valid_loss: 0.084203
+[2020-05-17 23:56:54,318][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942108, valid_f1: 0.941622
+[2020-05-17 23:56:54,318][cnn_rnn_main.py][line:273][INFO] --- 65.20869994163513 seconds ---
+[2020-05-17 23:56:54,318][cnn_rnn_main.py][line:195][INFO] Epoch : 46
+[2020-05-17 23:56:54,318][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:57:58,403][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078419, valid_loss: 0.084242
+[2020-05-17 23:57:59,535][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941909, valid_f1: 0.941540
+[2020-05-17 23:57:59,535][cnn_rnn_main.py][line:273][INFO] --- 65.21707558631897 seconds ---
+[2020-05-17 23:57:59,535][cnn_rnn_main.py][line:195][INFO] Epoch : 47
+[2020-05-17 23:57:59,535][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-17 23:59:04,032][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078266, valid_loss: 0.084208
+[2020-05-17 23:59:05,187][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941954, valid_f1: 0.941621
+[2020-05-17 23:59:05,187][cnn_rnn_main.py][line:273][INFO] --- 65.65178394317627 seconds ---
+[2020-05-17 23:59:05,187][cnn_rnn_main.py][line:195][INFO] Epoch : 48
+[2020-05-17 23:59:05,187][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:00:21,518][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078269, valid_loss: 0.084224
+[2020-05-18 00:00:22,659][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942044, valid_f1: 0.941535
+[2020-05-18 00:00:22,659][cnn_rnn_main.py][line:273][INFO] --- 77.47220301628113 seconds ---
+[2020-05-18 00:00:22,659][cnn_rnn_main.py][line:195][INFO] Epoch : 49
+[2020-05-18 00:00:22,659][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:01:33,445][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078565, valid_loss: 0.084212
+[2020-05-18 00:01:34,580][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941904, valid_f1: 0.941560
+[2020-05-18 00:01:34,580][cnn_rnn_main.py][line:273][INFO] --- 71.92128348350525 seconds ---
+[2020-05-18 00:01:34,580][cnn_rnn_main.py][line:195][INFO] Epoch : 50
+[2020-05-18 00:01:34,580][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:02:41,608][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078566, valid_loss: 0.084232
+[2020-05-18 00:02:42,742][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941872, valid_f1: 0.941497
+[2020-05-18 00:02:42,742][cnn_rnn_main.py][line:273][INFO] --- 68.16160011291504 seconds ---
+[2020-05-18 00:02:42,742][cnn_rnn_main.py][line:195][INFO] Epoch : 51
+[2020-05-18 00:02:42,742][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:04:02,071][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078412, valid_loss: 0.084218
+[2020-05-18 00:04:03,210][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941973, valid_f1: 0.941515
+[2020-05-18 00:04:03,210][cnn_rnn_main.py][line:273][INFO] --- 80.468106508255 seconds ---
+[2020-05-18 00:04:03,210][cnn_rnn_main.py][line:195][INFO] Epoch : 52
+[2020-05-18 00:04:03,210][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:05:15,217][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078501, valid_loss: 0.084215
+[2020-05-18 00:05:16,358][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941925, valid_f1: 0.941593
+[2020-05-18 00:05:16,358][cnn_rnn_main.py][line:273][INFO] --- 73.14824318885803 seconds ---
+[2020-05-18 00:05:16,359][cnn_rnn_main.py][line:195][INFO] Epoch : 53
+[2020-05-18 00:05:16,359][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:06:20,532][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078569, valid_loss: 0.084192
+[2020-05-18 00:06:21,658][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941900, valid_f1: 0.941604
+[2020-05-18 00:06:21,658][cnn_rnn_main.py][line:273][INFO] --- 65.29986691474915 seconds ---
+[2020-05-18 00:06:21,658][cnn_rnn_main.py][line:195][INFO] Epoch : 54
+[2020-05-18 00:06:21,658][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:07:25,947][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078713, valid_loss: 0.084202
+[2020-05-18 00:07:27,090][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941919, valid_f1: 0.941550
+[2020-05-18 00:07:27,090][cnn_rnn_main.py][line:273][INFO] --- 65.43171572685242 seconds ---
+[2020-05-18 00:07:27,090][cnn_rnn_main.py][line:195][INFO] Epoch : 55
+[2020-05-18 00:07:27,090][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:08:31,592][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078417, valid_loss: 0.084198
+[2020-05-18 00:08:32,725][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942013, valid_f1: 0.941671
+[2020-05-18 00:08:32,726][cnn_rnn_main.py][line:273][INFO] --- 65.63534665107727 seconds ---
+[2020-05-18 00:08:32,726][cnn_rnn_main.py][line:195][INFO] Epoch : 56
+[2020-05-18 00:08:32,726][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:09:36,708][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078193, valid_loss: 0.084179
+[2020-05-18 00:09:37,842][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941923, valid_f1: 0.941615
+[2020-05-18 00:09:37,842][cnn_rnn_main.py][line:273][INFO] --- 65.11625480651855 seconds ---
+[2020-05-18 00:09:37,842][cnn_rnn_main.py][line:195][INFO] Epoch : 57
+[2020-05-18 00:09:37,842][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:10:42,053][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078145, valid_loss: 0.084187
+[2020-05-18 00:10:43,194][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941980, valid_f1: 0.941644
+[2020-05-18 00:10:43,194][cnn_rnn_main.py][line:267][INFO] Early Stopping...
+[2020-05-18 00:10:43,194][cnn_rnn_main.py][line:269][INFO] Best Val Score: 0.941691
+[2020-05-18 00:11:09,560][cnn_rnn_main.py][line:158][INFO] ========== Fold 4, TRAIN: (1800,), TEST: (450,) ==========
+[2020-05-18 00:11:09,928][cnn_rnn_main.py][line:195][INFO] Epoch : 0
+[2020-05-18 00:11:09,928][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-18 00:12:13,931][cnn_rnn_main.py][line:255][INFO] train_loss: 1.255296, valid_loss: 0.217853
+[2020-05-18 00:12:15,003][cnn_rnn_main.py][line:262][INFO] train_f1: 0.425458, valid_f1: 0.855704
+[2020-05-18 00:12:15,011][cnn_rnn_main.py][line:273][INFO] --- 65.08324313163757 seconds ---
+[2020-05-18 00:12:15,011][cnn_rnn_main.py][line:195][INFO] Epoch : 1
+[2020-05-18 00:12:15,011][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-18 00:13:21,953][cnn_rnn_main.py][line:255][INFO] train_loss: 0.123382, valid_loss: 0.096782
+[2020-05-18 00:13:23,096][cnn_rnn_main.py][line:262][INFO] train_f1: 0.920875, valid_f1: 0.939188
+[2020-05-18 00:13:23,104][cnn_rnn_main.py][line:273][INFO] --- 68.09264016151428 seconds ---
+[2020-05-18 00:13:23,104][cnn_rnn_main.py][line:195][INFO] Epoch : 2
+[2020-05-18 00:13:23,104][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-18 00:14:36,329][cnn_rnn_main.py][line:255][INFO] train_loss: 0.091568, valid_loss: 0.090539
+[2020-05-18 00:14:37,475][cnn_rnn_main.py][line:262][INFO] train_f1: 0.936450, valid_f1: 0.939978
+[2020-05-18 00:14:37,481][cnn_rnn_main.py][line:273][INFO] --- 74.37766528129578 seconds ---
+[2020-05-18 00:14:37,481][cnn_rnn_main.py][line:195][INFO] Epoch : 3
+[2020-05-18 00:14:37,481][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-18 00:15:43,458][cnn_rnn_main.py][line:255][INFO] train_loss: 0.087098, valid_loss: 0.088218
+[2020-05-18 00:15:44,595][cnn_rnn_main.py][line:262][INFO] train_f1: 0.937751, valid_f1: 0.941680
+[2020-05-18 00:15:44,602][cnn_rnn_main.py][line:273][INFO] --- 67.12055850028992 seconds ---
+[2020-05-18 00:15:44,602][cnn_rnn_main.py][line:195][INFO] Epoch : 4
+[2020-05-18 00:15:44,602][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-18 00:17:12,345][cnn_rnn_main.py][line:255][INFO] train_loss: 0.085121, valid_loss: 0.087817
+[2020-05-18 00:17:13,476][cnn_rnn_main.py][line:262][INFO] train_f1: 0.938524, valid_f1: 0.941232
+[2020-05-18 00:17:13,476][cnn_rnn_main.py][line:273][INFO] --- 88.87370681762695 seconds ---
+[2020-05-18 00:17:13,476][cnn_rnn_main.py][line:195][INFO] Epoch : 5
+[2020-05-18 00:17:13,476][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-18 00:18:27,176][cnn_rnn_main.py][line:255][INFO] train_loss: 0.084007, valid_loss: 0.086776
+[2020-05-18 00:18:28,329][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939093, valid_f1: 0.941733
+[2020-05-18 00:18:28,336][cnn_rnn_main.py][line:273][INFO] --- 74.85998034477234 seconds ---
+[2020-05-18 00:18:28,336][cnn_rnn_main.py][line:195][INFO] Epoch : 6
+[2020-05-18 00:18:28,336][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-18 00:19:50,567][cnn_rnn_main.py][line:255][INFO] train_loss: 0.082831, valid_loss: 0.086677
+[2020-05-18 00:19:51,715][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939492, valid_f1: 0.941920
+[2020-05-18 00:19:51,720][cnn_rnn_main.py][line:273][INFO] --- 83.38457751274109 seconds ---
+[2020-05-18 00:19:51,721][cnn_rnn_main.py][line:195][INFO] Epoch : 7
+[2020-05-18 00:19:51,721][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-18 00:21:01,485][cnn_rnn_main.py][line:255][INFO] train_loss: 0.082084, valid_loss: 0.087127
+[2020-05-18 00:21:02,603][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939754, valid_f1: 0.941196
+[2020-05-18 00:21:02,604][cnn_rnn_main.py][line:273][INFO] --- 70.88300633430481 seconds ---
+[2020-05-18 00:21:02,604][cnn_rnn_main.py][line:195][INFO] Epoch : 8
+[2020-05-18 00:21:02,604][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-18 00:22:23,003][cnn_rnn_main.py][line:255][INFO] train_loss: 0.081883, valid_loss: 0.085698
+[2020-05-18 00:22:24,148][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940194, valid_f1: 0.941790
+[2020-05-18 00:22:24,148][cnn_rnn_main.py][line:273][INFO] --- 81.54422044754028 seconds ---
+[2020-05-18 00:22:24,148][cnn_rnn_main.py][line:195][INFO] Epoch : 9
+[2020-05-18 00:22:24,148][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-18 00:23:27,958][cnn_rnn_main.py][line:255][INFO] train_loss: 0.081987, valid_loss: 0.086132
+[2020-05-18 00:23:29,081][cnn_rnn_main.py][line:262][INFO] train_f1: 0.939943, valid_f1: 0.941437
+[2020-05-18 00:23:29,081][cnn_rnn_main.py][line:273][INFO] --- 64.93358659744263 seconds ---
+[2020-05-18 00:23:29,081][cnn_rnn_main.py][line:195][INFO] Epoch : 10
+[2020-05-18 00:23:29,082][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-18 00:24:36,678][cnn_rnn_main.py][line:255][INFO] train_loss: 0.081384, valid_loss: 0.085413
+[2020-05-18 00:24:37,824][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940063, valid_f1: 0.942208
+[2020-05-18 00:24:37,830][cnn_rnn_main.py][line:273][INFO] --- 68.74841570854187 seconds ---
+[2020-05-18 00:24:37,830][cnn_rnn_main.py][line:195][INFO] Epoch : 11
+[2020-05-18 00:24:37,830][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-18 00:25:49,437][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080483, valid_loss: 0.085326
+[2020-05-18 00:25:50,554][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940720, valid_f1: 0.941982
+[2020-05-18 00:25:50,554][cnn_rnn_main.py][line:273][INFO] --- 72.72428894042969 seconds ---
+[2020-05-18 00:25:50,554][cnn_rnn_main.py][line:195][INFO] Epoch : 12
+[2020-05-18 00:25:50,554][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-18 00:27:04,739][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080622, valid_loss: 0.085223
+[2020-05-18 00:27:05,885][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940654, valid_f1: 0.942260
+[2020-05-18 00:27:05,891][cnn_rnn_main.py][line:273][INFO] --- 75.33687615394592 seconds ---
+[2020-05-18 00:27:05,891][cnn_rnn_main.py][line:195][INFO] Epoch : 13
+[2020-05-18 00:27:05,891][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-18 00:28:27,940][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080281, valid_loss: 0.084779
+[2020-05-18 00:28:29,073][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940924, valid_f1: 0.942222
+[2020-05-18 00:28:29,073][cnn_rnn_main.py][line:273][INFO] --- 83.18148446083069 seconds ---
+[2020-05-18 00:28:29,073][cnn_rnn_main.py][line:195][INFO] Epoch : 14
+[2020-05-18 00:28:29,073][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.001000000
+[2020-05-18 00:29:43,815][cnn_rnn_main.py][line:255][INFO] train_loss: 0.080348, valid_loss: 0.084954
+[2020-05-18 00:29:44,934][cnn_rnn_main.py][line:262][INFO] train_f1: 0.940858, valid_f1: 0.942149
+[2020-05-18 00:29:44,934][cnn_rnn_main.py][line:273][INFO] --- 75.86142206192017 seconds ---
+[2020-05-18 00:29:44,934][cnn_rnn_main.py][line:195][INFO] Epoch : 15
+[2020-05-18 00:29:44,934][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-18 00:30:52,823][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078834, valid_loss: 0.084388
+[2020-05-18 00:30:53,931][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941613, valid_f1: 0.942318
+[2020-05-18 00:30:53,937][cnn_rnn_main.py][line:273][INFO] --- 69.00277590751648 seconds ---
+[2020-05-18 00:30:53,937][cnn_rnn_main.py][line:195][INFO] Epoch : 16
+[2020-05-18 00:30:53,937][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-18 00:32:04,939][cnn_rnn_main.py][line:255][INFO] train_loss: 0.079061, valid_loss: 0.084347
+[2020-05-18 00:32:06,072][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941546, valid_f1: 0.942506
+[2020-05-18 00:32:06,079][cnn_rnn_main.py][line:273][INFO] --- 72.14154124259949 seconds ---
+[2020-05-18 00:32:06,079][cnn_rnn_main.py][line:195][INFO] Epoch : 17
+[2020-05-18 00:32:06,079][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-18 00:33:10,978][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078641, valid_loss: 0.084554
+[2020-05-18 00:33:12,107][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941570, valid_f1: 0.942084
+[2020-05-18 00:33:12,107][cnn_rnn_main.py][line:273][INFO] --- 66.0281035900116 seconds ---
+[2020-05-18 00:33:12,107][cnn_rnn_main.py][line:195][INFO] Epoch : 18
+[2020-05-18 00:33:12,107][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-18 00:34:16,259][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078689, valid_loss: 0.084381
+[2020-05-18 00:34:17,396][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941542, valid_f1: 0.942176
+[2020-05-18 00:34:17,396][cnn_rnn_main.py][line:273][INFO] --- 65.28913712501526 seconds ---
+[2020-05-18 00:34:17,396][cnn_rnn_main.py][line:195][INFO] Epoch : 19
+[2020-05-18 00:34:17,396][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-18 00:35:24,644][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078466, valid_loss: 0.084355
+[2020-05-18 00:35:25,775][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941667, valid_f1: 0.942459
+[2020-05-18 00:35:25,775][cnn_rnn_main.py][line:273][INFO] --- 68.37863183021545 seconds ---
+[2020-05-18 00:35:25,775][cnn_rnn_main.py][line:195][INFO] Epoch : 20
+[2020-05-18 00:35:25,775][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000300000
+[2020-05-18 00:36:36,148][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078782, valid_loss: 0.084466
+[2020-05-18 00:36:37,278][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941718, valid_f1: 0.941997
+[2020-05-18 00:36:37,278][cnn_rnn_main.py][line:273][INFO] --- 71.50301885604858 seconds ---
+[2020-05-18 00:36:37,278][cnn_rnn_main.py][line:195][INFO] Epoch : 21
+[2020-05-18 00:36:37,278][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-18 00:38:02,718][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078328, valid_loss: 0.084165
+[2020-05-18 00:38:03,880][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941753, valid_f1: 0.942389
+[2020-05-18 00:38:03,881][cnn_rnn_main.py][line:273][INFO] --- 86.6027762889862 seconds ---
+[2020-05-18 00:38:03,881][cnn_rnn_main.py][line:195][INFO] Epoch : 22
+[2020-05-18 00:38:03,881][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-18 00:39:34,168][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078270, valid_loss: 0.084114
+[2020-05-18 00:39:35,301][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941971, valid_f1: 0.942357
+[2020-05-18 00:39:35,301][cnn_rnn_main.py][line:273][INFO] --- 91.420175075531 seconds ---
+[2020-05-18 00:39:35,301][cnn_rnn_main.py][line:195][INFO] Epoch : 23
+[2020-05-18 00:39:35,301][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-18 00:40:40,779][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078397, valid_loss: 0.084110
+[2020-05-18 00:40:41,897][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941736, valid_f1: 0.942352
+[2020-05-18 00:40:41,898][cnn_rnn_main.py][line:273][INFO] --- 66.59663367271423 seconds ---
+[2020-05-18 00:40:41,898][cnn_rnn_main.py][line:195][INFO] Epoch : 24
+[2020-05-18 00:40:41,898][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000090000
+[2020-05-18 00:41:45,881][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077989, valid_loss: 0.084079
+[2020-05-18 00:41:47,034][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941982, valid_f1: 0.942422
+[2020-05-18 00:41:47,034][cnn_rnn_main.py][line:273][INFO] --- 65.13677644729614 seconds ---
+[2020-05-18 00:41:47,034][cnn_rnn_main.py][line:195][INFO] Epoch : 25
+[2020-05-18 00:41:47,034][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-18 00:42:51,309][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077907, valid_loss: 0.084056
+[2020-05-18 00:42:52,439][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942007, valid_f1: 0.942396
+[2020-05-18 00:42:52,439][cnn_rnn_main.py][line:273][INFO] --- 65.40450263023376 seconds ---
+[2020-05-18 00:42:52,439][cnn_rnn_main.py][line:195][INFO] Epoch : 26
+[2020-05-18 00:42:52,439][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-18 00:43:56,597][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077863, valid_loss: 0.084061
+[2020-05-18 00:43:57,717][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941895, valid_f1: 0.942424
+[2020-05-18 00:43:57,717][cnn_rnn_main.py][line:273][INFO] --- 65.27792167663574 seconds ---
+[2020-05-18 00:43:57,717][cnn_rnn_main.py][line:195][INFO] Epoch : 27
+[2020-05-18 00:43:57,717][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-18 00:45:01,703][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078100, valid_loss: 0.084040
+[2020-05-18 00:45:02,820][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942051, valid_f1: 0.942426
+[2020-05-18 00:45:02,820][cnn_rnn_main.py][line:273][INFO] --- 65.10278940200806 seconds ---
+[2020-05-18 00:45:02,820][cnn_rnn_main.py][line:195][INFO] Epoch : 28
+[2020-05-18 00:45:02,820][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000027000
+[2020-05-18 00:46:07,000][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078046, valid_loss: 0.084036
+[2020-05-18 00:46:08,112][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942067, valid_f1: 0.942410
+[2020-05-18 00:46:08,112][cnn_rnn_main.py][line:273][INFO] --- 65.29252529144287 seconds ---
+[2020-05-18 00:46:08,112][cnn_rnn_main.py][line:195][INFO] Epoch : 29
+[2020-05-18 00:46:08,112][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:47:12,180][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078051, valid_loss: 0.084029
+[2020-05-18 00:47:13,300][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942073, valid_f1: 0.942401
+[2020-05-18 00:47:13,300][cnn_rnn_main.py][line:273][INFO] --- 65.18806791305542 seconds ---
+[2020-05-18 00:47:13,300][cnn_rnn_main.py][line:195][INFO] Epoch : 30
+[2020-05-18 00:47:13,301][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:48:17,438][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078650, valid_loss: 0.084027
+[2020-05-18 00:48:18,587][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941964, valid_f1: 0.942470
+[2020-05-18 00:48:18,587][cnn_rnn_main.py][line:273][INFO] --- 65.2866780757904 seconds ---
+[2020-05-18 00:48:18,587][cnn_rnn_main.py][line:195][INFO] Epoch : 31
+[2020-05-18 00:48:18,587][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:49:23,027][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078056, valid_loss: 0.084041
+[2020-05-18 00:49:24,142][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942078, valid_f1: 0.942418
+[2020-05-18 00:49:24,142][cnn_rnn_main.py][line:273][INFO] --- 65.55519104003906 seconds ---
+[2020-05-18 00:49:24,142][cnn_rnn_main.py][line:195][INFO] Epoch : 32
+[2020-05-18 00:49:24,142][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:50:28,427][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077830, valid_loss: 0.084028
+[2020-05-18 00:50:29,549][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942036, valid_f1: 0.942449
+[2020-05-18 00:50:29,549][cnn_rnn_main.py][line:273][INFO] --- 65.40642309188843 seconds ---
+[2020-05-18 00:50:29,549][cnn_rnn_main.py][line:195][INFO] Epoch : 33
+[2020-05-18 00:50:29,549][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:51:33,596][cnn_rnn_main.py][line:255][INFO] train_loss: 0.077972, valid_loss: 0.084029
+[2020-05-18 00:51:34,735][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942026, valid_f1: 0.942394
+[2020-05-18 00:51:34,735][cnn_rnn_main.py][line:273][INFO] --- 65.18605041503906 seconds ---
+[2020-05-18 00:51:34,735][cnn_rnn_main.py][line:195][INFO] Epoch : 34
+[2020-05-18 00:51:34,735][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:52:38,806][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078280, valid_loss: 0.084042
+[2020-05-18 00:52:39,941][cnn_rnn_main.py][line:262][INFO] train_f1: 0.942060, valid_f1: 0.942502
+[2020-05-18 00:52:39,941][cnn_rnn_main.py][line:273][INFO] --- 65.20616221427917 seconds ---
+[2020-05-18 00:52:39,941][cnn_rnn_main.py][line:195][INFO] Epoch : 35
+[2020-05-18 00:52:39,941][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:53:43,865][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078061, valid_loss: 0.084040
+[2020-05-18 00:53:45,000][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941948, valid_f1: 0.942370
+[2020-05-18 00:53:45,000][cnn_rnn_main.py][line:273][INFO] --- 65.05904865264893 seconds ---
+[2020-05-18 00:53:45,000][cnn_rnn_main.py][line:195][INFO] Epoch : 36
+[2020-05-18 00:53:45,000][cnn_rnn_main.py][line:197][INFO] learning_rate: 0.000010000
+[2020-05-18 00:54:48,984][cnn_rnn_main.py][line:255][INFO] train_loss: 0.078077, valid_loss: 0.084019
+[2020-05-18 00:54:50,106][cnn_rnn_main.py][line:262][INFO] train_f1: 0.941992, valid_f1: 0.942339
+[2020-05-18 00:54:50,106][cnn_rnn_main.py][line:267][INFO] Early Stopping...
+[2020-05-18 00:54:50,106][cnn_rnn_main.py][line:269][INFO] Best Val Score: 0.942506
+[2020-05-18 00:55:16,479][cnn_rnn_main.py][line:299][INFO] Each folder validation score is:[0.94279944 0.94196188 0.94142699 0.9416908  0.94250615]
+[2020-05-18 00:55:16,479][cnn_rnn_main.py][line:300][INFO] Cross validation score is:0.9421
+[2020-05-18 00:55:16,479][cnn_rnn_main.py][line:301][INFO] Finish training!
+[2020-05-18 00:55:19,385][cnn_rnn_main.py][line:314][INFO] Saved prediction successfully!
